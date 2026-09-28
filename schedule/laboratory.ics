@@ -10,7 +10,7 @@ BEGIN:VEVENT
 SUMMARY:Теоретические основы кибернетики
 DTSTART;TZID="UTC+03:00":20260929T140000
 DTEND;TZID="UTC+03:00":20260929T153500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:9ea398262b65e8e3bb163390@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: доц. Мигаль Лари
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:Введение в специальность
 DTSTART;TZID="UTC+03:00":20260929T140000
 DTEND;TZID="UTC+03:00":20260929T153500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:7d464429e737bd1939085275@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 2 п/г\nПреподаватель: ст.преп. Гурьяно
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:Введение в специальность
 DTSTART;TZID="UTC+03:00":20260929T154500
 DTEND;TZID="UTC+03:00":20260929T172000
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:2216f1b9270f81cd94cca221@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: доц. Петина Мари
@@ -65,7 +65,7 @@ BEGIN:VEVENT
 SUMMARY:Теоретические основы кибернетики
 DTSTART;TZID="UTC+03:00":20260929T154500
 DTEND;TZID="UTC+03:00":20260929T172000
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:e4901341e1226871a4ab4de3@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 2 п/г\nПреподаватель: доц. Мигаль Лари
@@ -83,7 +83,7 @@ BEGIN:VEVENT
 SUMMARY:Физика
 DTSTART;TZID="UTC+03:00":20261001T101500
 DTEND;TZID="UTC+03:00":20261001T115000
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:9ffbd3cfea22ec3ebddd045a@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: ст.преп. Бардако
@@ -101,7 +101,7 @@ BEGIN:VEVENT
 SUMMARY:Прикладное программирование
 DTSTART;TZID="UTC+03:00":20261001T120000
 DTEND;TZID="UTC+03:00":20261001T133500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:40c66081920dc36ebe8e100b@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: доц. Гахова Нина
@@ -119,7 +119,7 @@ BEGIN:VEVENT
 SUMMARY:Прикладное программирование
 DTSTART;TZID="UTC+03:00":20261001T120000
 DTEND;TZID="UTC+03:00":20261001T133500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:157e0d5d170cc34ba1e2ec21@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 2 п/г\nПреподаватель: ст.преп. Резниче
@@ -137,7 +137,7 @@ BEGIN:VEVENT
 SUMMARY:Теоретические основы кибернетики
 DTSTART;TZID="UTC+03:00":20261006T140000
 DTEND;TZID="UTC+03:00":20261006T153500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:e46b385b48533edfe80deec1@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: доц. Мигаль Лари
@@ -155,7 +155,7 @@ BEGIN:VEVENT
 SUMMARY:Введение в специальность
 DTSTART;TZID="UTC+03:00":20261006T140000
 DTEND;TZID="UTC+03:00":20261006T153500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:7f70eda60eb5cdbc68efbb92@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 2 п/г\nПреподаватель: ст.преп. Гурьяно
@@ -174,7 +174,7 @@ BEGIN:VEVENT
 SUMMARY:Введение в специальность
 DTSTART;TZID="UTC+03:00":20261006T154500
 DTEND;TZID="UTC+03:00":20261006T172000
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:8d86773d6f644611d10bef52@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: доц. Петина Мари
@@ -192,7 +192,7 @@ BEGIN:VEVENT
 SUMMARY:Теоретические основы кибернетики
 DTSTART;TZID="UTC+03:00":20261006T154500
 DTEND;TZID="UTC+03:00":20261006T172000
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:d72e0497af46a21fa7a5ec77@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 2 п/г\nПреподаватель: доц. Мигаль Лари
@@ -210,7 +210,7 @@ BEGIN:VEVENT
 SUMMARY:Прикладное программирование
 DTSTART;TZID="UTC+03:00":20261008T120000
 DTEND;TZID="UTC+03:00":20261008T133500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:acf233dfc4e19f64ef54e2dd@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: доц. Гахова Нина
@@ -228,7 +228,7 @@ BEGIN:VEVENT
 SUMMARY:Прикладное программирование
 DTSTART;TZID="UTC+03:00":20261008T120000
 DTEND;TZID="UTC+03:00":20261008T133500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:f0f114dea50c3fc20d37246e@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 2 п/г\nПреподаватель: ст.преп. Резниче
@@ -246,7 +246,7 @@ BEGIN:VEVENT
 SUMMARY:Физика
 DTSTART;TZID="UTC+03:00":20261009T140000
 DTEND;TZID="UTC+03:00":20261009T153500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:590396ad980444707777e753@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 2 п/г\nПреподаватель: ст.преп. Бардако
@@ -264,7 +264,7 @@ BEGIN:VEVENT
 SUMMARY:Теоретические основы кибернетики
 DTSTART;TZID="UTC+03:00":20261013T140000
 DTEND;TZID="UTC+03:00":20261013T153500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:6c5f35ec78d811051a0bc278@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: доц. Мигаль Лари
@@ -282,7 +282,7 @@ BEGIN:VEVENT
 SUMMARY:Введение в специальность
 DTSTART;TZID="UTC+03:00":20261013T140000
 DTEND;TZID="UTC+03:00":20261013T153500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:82785411009872810a869dc2@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 2 п/г\nПреподаватель: ст.преп. Гурьяно
@@ -301,7 +301,7 @@ BEGIN:VEVENT
 SUMMARY:Введение в специальность
 DTSTART;TZID="UTC+03:00":20261013T154500
 DTEND;TZID="UTC+03:00":20261013T172000
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:30bffd4ab1f945b172bea486@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: доц. Петина Мари
@@ -319,7 +319,7 @@ BEGIN:VEVENT
 SUMMARY:Теоретические основы кибернетики
 DTSTART;TZID="UTC+03:00":20261013T154500
 DTEND;TZID="UTC+03:00":20261013T172000
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:d40fee689668ed72dcacf8ff@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 2 п/г\nПреподаватель: доц. Мигаль Лари
@@ -337,7 +337,7 @@ BEGIN:VEVENT
 SUMMARY:Физика
 DTSTART;TZID="UTC+03:00":20261015T101500
 DTEND;TZID="UTC+03:00":20261015T115000
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:96ca9369ee138db6672558cc@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: ст.преп. Бардако
@@ -355,7 +355,7 @@ BEGIN:VEVENT
 SUMMARY:Прикладное программирование
 DTSTART;TZID="UTC+03:00":20261015T120000
 DTEND;TZID="UTC+03:00":20261015T133500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:b10a529a4d89f0fac6b0210d@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: доц. Гахова Нина
@@ -373,7 +373,7 @@ BEGIN:VEVENT
 SUMMARY:Прикладное программирование
 DTSTART;TZID="UTC+03:00":20261015T120000
 DTEND;TZID="UTC+03:00":20261015T133500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:467671bc30065804abde1619@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 2 п/г\nПреподаватель: ст.преп. Резниче
@@ -391,7 +391,7 @@ BEGIN:VEVENT
 SUMMARY:Теоретические основы кибернетики
 DTSTART;TZID="UTC+03:00":20261020T140000
 DTEND;TZID="UTC+03:00":20261020T153500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:1a325954c60b0d7b462c37fe@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: доц. Мигаль Лари
@@ -409,7 +409,7 @@ BEGIN:VEVENT
 SUMMARY:Введение в специальность
 DTSTART;TZID="UTC+03:00":20261020T140000
 DTEND;TZID="UTC+03:00":20261020T153500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:1ad573a0245ead76b883f064@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 2 п/г\nПреподаватель: ст.преп. Гурьяно
@@ -428,7 +428,7 @@ BEGIN:VEVENT
 SUMMARY:Введение в специальность
 DTSTART;TZID="UTC+03:00":20261020T154500
 DTEND;TZID="UTC+03:00":20261020T172000
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:7db51c4c5290500fed49ccad@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: доц. Петина Мари
@@ -446,7 +446,7 @@ BEGIN:VEVENT
 SUMMARY:Теоретические основы кибернетики
 DTSTART;TZID="UTC+03:00":20261020T154500
 DTEND;TZID="UTC+03:00":20261020T172000
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:a1b6ea5a040d5817707f5dd4@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 2 п/г\nПреподаватель: доц. Мигаль Лари
@@ -464,7 +464,7 @@ BEGIN:VEVENT
 SUMMARY:Прикладное программирование
 DTSTART;TZID="UTC+03:00":20261022T120000
 DTEND;TZID="UTC+03:00":20261022T133500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:439410592d41903c374d8748@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: доц. Гахова Нина
@@ -482,7 +482,7 @@ BEGIN:VEVENT
 SUMMARY:Прикладное программирование
 DTSTART;TZID="UTC+03:00":20261022T120000
 DTEND;TZID="UTC+03:00":20261022T133500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:18f0386e17adcbe3238e41c7@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 2 п/г\nПреподаватель: ст.преп. Резниче
@@ -500,7 +500,7 @@ BEGIN:VEVENT
 SUMMARY:Физика
 DTSTART;TZID="UTC+03:00":20261023T140000
 DTEND;TZID="UTC+03:00":20261023T153500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:f3e0c3b4956088e9e7a0113a@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 2 п/г\nПреподаватель: ст.преп. Бардако
@@ -518,7 +518,7 @@ BEGIN:VEVENT
 SUMMARY:Теоретические основы кибернетики
 DTSTART;TZID="UTC+03:00":20261027T140000
 DTEND;TZID="UTC+03:00":20261027T153500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:d4076cc16b9afbd70675bee4@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: доц. Мигаль Лари
@@ -536,7 +536,7 @@ BEGIN:VEVENT
 SUMMARY:Введение в специальность
 DTSTART;TZID="UTC+03:00":20261027T140000
 DTEND;TZID="UTC+03:00":20261027T153500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:bd44e2a6a5fd15c61ec1ce17@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 2 п/г\nПреподаватель: ст.преп. Гурьяно
@@ -555,7 +555,7 @@ BEGIN:VEVENT
 SUMMARY:Введение в специальность
 DTSTART;TZID="UTC+03:00":20261027T154500
 DTEND;TZID="UTC+03:00":20261027T172000
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:07401b999b095a4d6a37e632@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: доц. Петина Мари
@@ -573,7 +573,7 @@ BEGIN:VEVENT
 SUMMARY:Теоретические основы кибернетики
 DTSTART;TZID="UTC+03:00":20261027T154500
 DTEND;TZID="UTC+03:00":20261027T172000
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:0392ee20e2a066d217bf6035@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 2 п/г\nПреподаватель: доц. Мигаль Лари
@@ -591,7 +591,7 @@ BEGIN:VEVENT
 SUMMARY:Физика
 DTSTART;TZID="UTC+03:00":20261029T101500
 DTEND;TZID="UTC+03:00":20261029T115000
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:939a14e4ac00591498e0cd26@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: ст.преп. Бардако
@@ -609,7 +609,7 @@ BEGIN:VEVENT
 SUMMARY:Прикладное программирование
 DTSTART;TZID="UTC+03:00":20261029T120000
 DTEND;TZID="UTC+03:00":20261029T133500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:76b32be5d4997561ddc102d1@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: доц. Гахова Нина
@@ -627,7 +627,7 @@ BEGIN:VEVENT
 SUMMARY:Прикладное программирование
 DTSTART;TZID="UTC+03:00":20261029T120000
 DTEND;TZID="UTC+03:00":20261029T133500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:d3b74802658b1894a76913e9@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 2 п/г\nПреподаватель: ст.преп. Резниче
@@ -645,7 +645,7 @@ BEGIN:VEVENT
 SUMMARY:Теоретические основы кибернетики
 DTSTART;TZID="UTC+03:00":20261103T140000
 DTEND;TZID="UTC+03:00":20261103T153500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:05b843f9d1c07745f1f46386@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: доц. Мигаль Лари
@@ -663,7 +663,7 @@ BEGIN:VEVENT
 SUMMARY:Введение в специальность
 DTSTART;TZID="UTC+03:00":20261103T140000
 DTEND;TZID="UTC+03:00":20261103T153500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:e48c66a1be9bcea446a1be2d@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 2 п/г\nПреподаватель: ст.преп. Гурьяно
@@ -682,7 +682,7 @@ BEGIN:VEVENT
 SUMMARY:Введение в специальность
 DTSTART;TZID="UTC+03:00":20261103T154500
 DTEND;TZID="UTC+03:00":20261103T172000
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:6f3e31b7e7c4bb54898ad64f@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: доц. Петина Мари
@@ -700,7 +700,7 @@ BEGIN:VEVENT
 SUMMARY:Теоретические основы кибернетики
 DTSTART;TZID="UTC+03:00":20261103T154500
 DTEND;TZID="UTC+03:00":20261103T172000
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:3ebf88f9f10b34557b7e242c@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 2 п/г\nПреподаватель: доц. Мигаль Лари
@@ -718,7 +718,7 @@ BEGIN:VEVENT
 SUMMARY:Прикладное программирование
 DTSTART;TZID="UTC+03:00":20261105T120000
 DTEND;TZID="UTC+03:00":20261105T133500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:f76c8719259982c1d6131d11@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: доц. Гахова Нина
@@ -736,7 +736,7 @@ BEGIN:VEVENT
 SUMMARY:Прикладное программирование
 DTSTART;TZID="UTC+03:00":20261105T120000
 DTEND;TZID="UTC+03:00":20261105T133500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:7284216e8c204a4312ef3d92@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 2 п/г\nПреподаватель: ст.преп. Резниче
@@ -754,7 +754,7 @@ BEGIN:VEVENT
 SUMMARY:Физика
 DTSTART;TZID="UTC+03:00":20261106T140000
 DTEND;TZID="UTC+03:00":20261106T153500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:11c52e15988c80793d39977a@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 2 п/г\nПреподаватель: ст.преп. Бардако
@@ -772,7 +772,7 @@ BEGIN:VEVENT
 SUMMARY:Теоретические основы кибернетики
 DTSTART;TZID="UTC+03:00":20261110T140000
 DTEND;TZID="UTC+03:00":20261110T153500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:d08c0015ea675edc2e2fc79a@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: доц. Мигаль Лари
@@ -790,7 +790,7 @@ BEGIN:VEVENT
 SUMMARY:Введение в специальность
 DTSTART;TZID="UTC+03:00":20261110T140000
 DTEND;TZID="UTC+03:00":20261110T153500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:e37923f8be0193249f181923@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 2 п/г\nПреподаватель: ст.преп. Гурьяно
@@ -809,7 +809,7 @@ BEGIN:VEVENT
 SUMMARY:Введение в специальность
 DTSTART;TZID="UTC+03:00":20261110T154500
 DTEND;TZID="UTC+03:00":20261110T172000
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:4a5ddb97b60ec2b240ad6cff@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: доц. Петина Мари
@@ -827,7 +827,7 @@ BEGIN:VEVENT
 SUMMARY:Теоретические основы кибернетики
 DTSTART;TZID="UTC+03:00":20261110T154500
 DTEND;TZID="UTC+03:00":20261110T172000
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:07eee4d6ad4ef0290d4b4f18@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 2 п/г\nПреподаватель: доц. Мигаль Лари
@@ -845,7 +845,7 @@ BEGIN:VEVENT
 SUMMARY:Физика
 DTSTART;TZID="UTC+03:00":20261112T101500
 DTEND;TZID="UTC+03:00":20261112T115000
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:327eb61f35396de7852215ed@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: ст.преп. Бардако
@@ -863,7 +863,7 @@ BEGIN:VEVENT
 SUMMARY:Прикладное программирование
 DTSTART;TZID="UTC+03:00":20261112T120000
 DTEND;TZID="UTC+03:00":20261112T133500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:feb907437792a9c73bbfc071@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: доц. Гахова Нина
@@ -881,7 +881,7 @@ BEGIN:VEVENT
 SUMMARY:Прикладное программирование
 DTSTART;TZID="UTC+03:00":20261112T120000
 DTEND;TZID="UTC+03:00":20261112T133500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:b6d4e721804c760f21358e26@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 2 п/г\nПреподаватель: ст.преп. Резниче
@@ -899,7 +899,7 @@ BEGIN:VEVENT
 SUMMARY:Теоретические основы кибернетики
 DTSTART;TZID="UTC+03:00":20261117T140000
 DTEND;TZID="UTC+03:00":20261117T153500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:533b1b4daff956d1afbe6f63@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: доц. Мигаль Лари
@@ -917,7 +917,7 @@ BEGIN:VEVENT
 SUMMARY:Введение в специальность
 DTSTART;TZID="UTC+03:00":20261117T140000
 DTEND;TZID="UTC+03:00":20261117T153500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:b52ad6882daa1bfd8a9db370@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 2 п/г\nПреподаватель: ст.преп. Гурьяно
@@ -936,7 +936,7 @@ BEGIN:VEVENT
 SUMMARY:Введение в специальность
 DTSTART;TZID="UTC+03:00":20261117T154500
 DTEND;TZID="UTC+03:00":20261117T172000
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:bea60a112a8f7fae509d8dbc@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: доц. Петина Мари
@@ -954,7 +954,7 @@ BEGIN:VEVENT
 SUMMARY:Теоретические основы кибернетики
 DTSTART;TZID="UTC+03:00":20261117T154500
 DTEND;TZID="UTC+03:00":20261117T172000
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:dcbbbf4cd0b19ca5160f8e65@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 2 п/г\nПреподаватель: доц. Мигаль Лари
@@ -972,7 +972,7 @@ BEGIN:VEVENT
 SUMMARY:Прикладное программирование
 DTSTART;TZID="UTC+03:00":20261119T120000
 DTEND;TZID="UTC+03:00":20261119T133500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:c52767063250d576c9e70ecf@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: доц. Гахова Нина
@@ -990,7 +990,7 @@ BEGIN:VEVENT
 SUMMARY:Прикладное программирование
 DTSTART;TZID="UTC+03:00":20261119T120000
 DTEND;TZID="UTC+03:00":20261119T133500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:505d01c519db1fda3e72dd6f@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 2 п/г\nПреподаватель: ст.преп. Резниче
@@ -1008,7 +1008,7 @@ BEGIN:VEVENT
 SUMMARY:Физика
 DTSTART;TZID="UTC+03:00":20261120T140000
 DTEND;TZID="UTC+03:00":20261120T153500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:b635e8d8d2ca6a444647b18e@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 2 п/г\nПреподаватель: ст.преп. Бардако
@@ -1026,7 +1026,7 @@ BEGIN:VEVENT
 SUMMARY:Теоретические основы кибернетики
 DTSTART;TZID="UTC+03:00":20261124T140000
 DTEND;TZID="UTC+03:00":20261124T153500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:29382f922eff123f5e6cd0ee@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: доц. Мигаль Лари
@@ -1044,7 +1044,7 @@ BEGIN:VEVENT
 SUMMARY:Введение в специальность
 DTSTART;TZID="UTC+03:00":20261124T140000
 DTEND;TZID="UTC+03:00":20261124T153500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:687243884b8ccc8e0c25a624@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 2 п/г\nПреподаватель: ст.преп. Гурьяно
@@ -1063,7 +1063,7 @@ BEGIN:VEVENT
 SUMMARY:Введение в специальность
 DTSTART;TZID="UTC+03:00":20261124T154500
 DTEND;TZID="UTC+03:00":20261124T172000
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:068e8f540019bf22e878349d@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: доц. Петина Мари
@@ -1081,7 +1081,7 @@ BEGIN:VEVENT
 SUMMARY:Теоретические основы кибернетики
 DTSTART;TZID="UTC+03:00":20261124T154500
 DTEND;TZID="UTC+03:00":20261124T172000
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:e9c3f26b27bf513b93f66d6e@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 2 п/г\nПреподаватель: доц. Мигаль Лари
@@ -1099,7 +1099,7 @@ BEGIN:VEVENT
 SUMMARY:Физика
 DTSTART;TZID="UTC+03:00":20261126T101500
 DTEND;TZID="UTC+03:00":20261126T115000
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:1de7c8e01df12b49521ebc17@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: ст.преп. Бардако
@@ -1117,7 +1117,7 @@ BEGIN:VEVENT
 SUMMARY:Прикладное программирование
 DTSTART;TZID="UTC+03:00":20261126T120000
 DTEND;TZID="UTC+03:00":20261126T133500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:4aaf146a68012bc765208a3d@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: доц. Гахова Нина
@@ -1135,7 +1135,7 @@ BEGIN:VEVENT
 SUMMARY:Прикладное программирование
 DTSTART;TZID="UTC+03:00":20261126T120000
 DTEND;TZID="UTC+03:00":20261126T133500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:baaada5ddb57bc287df711e2@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 2 п/г\nПреподаватель: ст.преп. Резниче
@@ -1153,7 +1153,7 @@ BEGIN:VEVENT
 SUMMARY:Теоретические основы кибернетики
 DTSTART;TZID="UTC+03:00":20261201T140000
 DTEND;TZID="UTC+03:00":20261201T153500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:a51f62ad24f475ec9ca33c2b@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: доц. Мигаль Лари
@@ -1171,7 +1171,7 @@ BEGIN:VEVENT
 SUMMARY:Введение в специальность
 DTSTART;TZID="UTC+03:00":20261201T140000
 DTEND;TZID="UTC+03:00":20261201T153500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:40acc4be6fe604b19e374269@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 2 п/г\nПреподаватель: ст.преп. Гурьяно
@@ -1190,7 +1190,7 @@ BEGIN:VEVENT
 SUMMARY:Введение в специальность
 DTSTART;TZID="UTC+03:00":20261201T154500
 DTEND;TZID="UTC+03:00":20261201T172000
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:447a42d72de0e72ada4b04ee@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: доц. Петина Мари
@@ -1208,7 +1208,7 @@ BEGIN:VEVENT
 SUMMARY:Теоретические основы кибернетики
 DTSTART;TZID="UTC+03:00":20261201T154500
 DTEND;TZID="UTC+03:00":20261201T172000
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:85b747149c24ec53b0ad5274@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 2 п/г\nПреподаватель: доц. Мигаль Лари
@@ -1226,7 +1226,7 @@ BEGIN:VEVENT
 SUMMARY:Прикладное программирование
 DTSTART;TZID="UTC+03:00":20261203T120000
 DTEND;TZID="UTC+03:00":20261203T133500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:c3b8779bc8379ad7108dd03e@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: доц. Гахова Нина
@@ -1244,7 +1244,7 @@ BEGIN:VEVENT
 SUMMARY:Прикладное программирование
 DTSTART;TZID="UTC+03:00":20261203T120000
 DTEND;TZID="UTC+03:00":20261203T133500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:1d7067d7e9c29f5026f1ecb3@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 2 п/г\nПреподаватель: ст.преп. Резниче
@@ -1262,7 +1262,7 @@ BEGIN:VEVENT
 SUMMARY:Физика
 DTSTART;TZID="UTC+03:00":20261204T140000
 DTEND;TZID="UTC+03:00":20261204T153500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:44b4df46ce7b5acf993e679e@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 2 п/г\nПреподаватель: ст.преп. Бардако
@@ -1280,7 +1280,7 @@ BEGIN:VEVENT
 SUMMARY:Теоретические основы кибернетики
 DTSTART;TZID="UTC+03:00":20261208T140000
 DTEND;TZID="UTC+03:00":20261208T153500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:63a753e161ba00536f6d3fba@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: доц. Мигаль Лари
@@ -1298,7 +1298,7 @@ BEGIN:VEVENT
 SUMMARY:Введение в специальность
 DTSTART;TZID="UTC+03:00":20261208T140000
 DTEND;TZID="UTC+03:00":20261208T153500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:e03109fffc5fdd63c3393a16@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 2 п/г\nПреподаватель: ст.преп. Гурьяно
@@ -1317,7 +1317,7 @@ BEGIN:VEVENT
 SUMMARY:Введение в специальность
 DTSTART;TZID="UTC+03:00":20261208T154500
 DTEND;TZID="UTC+03:00":20261208T172000
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:92ef30b0f654bc2d35055393@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: доц. Петина Мари
@@ -1335,7 +1335,7 @@ BEGIN:VEVENT
 SUMMARY:Теоретические основы кибернетики
 DTSTART;TZID="UTC+03:00":20261208T154500
 DTEND;TZID="UTC+03:00":20261208T172000
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:fc3a0f5b40da66bf1ecfbe1d@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 2 п/г\nПреподаватель: доц. Мигаль Лари
@@ -1353,7 +1353,7 @@ BEGIN:VEVENT
 SUMMARY:Физика
 DTSTART;TZID="UTC+03:00":20261210T101500
 DTEND;TZID="UTC+03:00":20261210T115000
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:7440da64e87ac1ec18252bd7@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: ст.преп. Бардако
@@ -1371,7 +1371,7 @@ BEGIN:VEVENT
 SUMMARY:Прикладное программирование
 DTSTART;TZID="UTC+03:00":20261210T120000
 DTEND;TZID="UTC+03:00":20261210T133500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:4f270cdb43092b25abb3c3ab@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: доц. Гахова Нина
@@ -1389,7 +1389,7 @@ BEGIN:VEVENT
 SUMMARY:Прикладное программирование
 DTSTART;TZID="UTC+03:00":20261210T120000
 DTEND;TZID="UTC+03:00":20261210T133500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:81eace6582b79abf11cf4895@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 2 п/г\nПреподаватель: ст.преп. Резниче
@@ -1407,7 +1407,7 @@ BEGIN:VEVENT
 SUMMARY:Теоретические основы кибернетики
 DTSTART;TZID="UTC+03:00":20261215T140000
 DTEND;TZID="UTC+03:00":20261215T153500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:b410d17a687ab08b0f67a167@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: доц. Мигаль Лари
@@ -1425,7 +1425,7 @@ BEGIN:VEVENT
 SUMMARY:Введение в специальность
 DTSTART;TZID="UTC+03:00":20261215T140000
 DTEND;TZID="UTC+03:00":20261215T153500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:ef211ce8e46c88af5dab05c3@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 2 п/г\nПреподаватель: ст.преп. Гурьяно
@@ -1444,7 +1444,7 @@ BEGIN:VEVENT
 SUMMARY:Введение в специальность
 DTSTART;TZID="UTC+03:00":20261215T154500
 DTEND;TZID="UTC+03:00":20261215T172000
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:83c446b10f21c99b94f81930@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: доц. Петина Мари
@@ -1462,7 +1462,7 @@ BEGIN:VEVENT
 SUMMARY:Теоретические основы кибернетики
 DTSTART;TZID="UTC+03:00":20261215T154500
 DTEND;TZID="UTC+03:00":20261215T172000
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:8feb2457df0a291651ea1d63@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 2 п/г\nПреподаватель: доц. Мигаль Лари
@@ -1480,7 +1480,7 @@ BEGIN:VEVENT
 SUMMARY:Прикладное программирование
 DTSTART;TZID="UTC+03:00":20261217T120000
 DTEND;TZID="UTC+03:00":20261217T133500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:4bc6159ee046910e1824bf27@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: доц. Гахова Нина
@@ -1498,7 +1498,7 @@ BEGIN:VEVENT
 SUMMARY:Прикладное программирование
 DTSTART;TZID="UTC+03:00":20261217T120000
 DTEND;TZID="UTC+03:00":20261217T133500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:be473f9794d460bb07e247e5@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 2 п/г\nПреподаватель: ст.преп. Резниче
@@ -1516,7 +1516,7 @@ BEGIN:VEVENT
 SUMMARY:Физика
 DTSTART;TZID="UTC+03:00":20261218T140000
 DTEND;TZID="UTC+03:00":20261218T153500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:82757cd0b61bdb43b19b3bb6@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 2 п/г\nПреподаватель: ст.преп. Бардако
@@ -1534,7 +1534,7 @@ BEGIN:VEVENT
 SUMMARY:Теоретические основы кибернетики
 DTSTART;TZID="UTC+03:00":20261222T140000
 DTEND;TZID="UTC+03:00":20261222T153500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:6326249434309f52f4c75387@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: доц. Мигаль Лари
@@ -1552,7 +1552,7 @@ BEGIN:VEVENT
 SUMMARY:Теоретические основы кибернетики
 DTSTART;TZID="UTC+03:00":20261222T154500
 DTEND;TZID="UTC+03:00":20261222T172000
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:9629be1bc0aa8ae026d85202@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: доц. Мигаль Лари
@@ -1570,7 +1570,7 @@ BEGIN:VEVENT
 SUMMARY:Физика
 DTSTART;TZID="UTC+03:00":20261224T101500
 DTEND;TZID="UTC+03:00":20261224T115000
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:0218167e8fd0f6a124e518c9@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: ст.преп. Бардако
@@ -1588,7 +1588,7 @@ BEGIN:VEVENT
 SUMMARY:Прикладное программирование
 DTSTART;TZID="UTC+03:00":20261224T120000
 DTEND;TZID="UTC+03:00":20261224T133500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:d6830140292afdbbd70e7bee@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: доц. Гахова Нина
@@ -1606,7 +1606,7 @@ BEGIN:VEVENT
 SUMMARY:Прикладное программирование
 DTSTART;TZID="UTC+03:00":20261224T120000
 DTEND;TZID="UTC+03:00":20261224T133500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:fcd5ff8a500b4fe16c38e284@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 2 п/г\nПреподаватель: ст.преп. Резниче
@@ -1624,7 +1624,7 @@ BEGIN:VEVENT
 SUMMARY:Теоретические основы кибернетики
 DTSTART;TZID="UTC+03:00":20261225T120000
 DTEND;TZID="UTC+03:00":20261225T133500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:5dd181511d234f44bde7b903@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: доц. Мигаль Лари
@@ -1641,7 +1641,7 @@ BEGIN:VEVENT
 SUMMARY:Теоретические основы кибернетики
 DTSTART;TZID="UTC+03:00":20261225T154500
 DTEND;TZID="UTC+03:00":20261225T172000
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:4b14203913f5c12c831df117@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 2 п/г\nПреподаватель: доц. Мигаль Лари
@@ -1659,7 +1659,7 @@ BEGIN:VEVENT
 SUMMARY:Теоретические основы кибернетики
 DTSTART;TZID="UTC+03:00":20261229T140000
 DTEND;TZID="UTC+03:00":20261229T153500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:e2ebeb14f6431e6c66022ce3@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 2 п/г\nПреподаватель: доц. Мигаль Лари
@@ -1677,7 +1677,7 @@ BEGIN:VEVENT
 SUMMARY:Теоретические основы кибернетики
 DTSTART;TZID="UTC+03:00":20261229T154500
 DTEND;TZID="UTC+03:00":20261229T172000
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:13f034eb66b69ed09df9baf0@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 2 п/г\nПреподаватель: доц. Мигаль Лари
@@ -1695,7 +1695,7 @@ BEGIN:VEVENT
 SUMMARY:Прикладное программирование
 DTSTART;TZID="UTC+03:00":20270114T120000
 DTEND;TZID="UTC+03:00":20270114T133500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:f942dedd5bffcf0646f5ee88@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 1 п/г\nПреподаватель: доц. Гахова Нина
@@ -1713,7 +1713,7 @@ BEGIN:VEVENT
 SUMMARY:Прикладное программирование
 DTSTART;TZID="UTC+03:00":20270114T120000
 DTEND;TZID="UTC+03:00":20270114T133500
-DTSTAMP:20260928T163721Z
+DTSTAMP:20260928T164806Z
 UID:77b0bbde24f8d40ce6ec1065@belgu-parser
 DESCRIPTION:Тип занятия: Лабораторная\nПодгру
  ппа: 2 п/г\nПреподаватель: ст.преп. Резниче
