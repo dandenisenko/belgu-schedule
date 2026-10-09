@@ -11,7 +11,7 @@ BEGIN:VEVENT
 SUMMARY:История мировых религий
 DTSTART;TZID="UTC+03:00":20261217T154500
 DTEND;TZID="UTC+03:00":20261217T172000
-DTSTAMP:20261009T123153Z
+DTSTAMP:20261009T221232Z
 UID:2bf507c891e4ebf9b15411e7@belgu-parser
 DESCRIPTION:Тип занятия: Зачёт\nПреподаватель:
   доц. Стрелкова Ирина Александровна\nУче
@@ -28,7 +28,7 @@ BEGIN:VEVENT
 SUMMARY:Иностранный язык
 DTSTART;TZID="UTC+03:00":20261228T101500
 DTEND;TZID="UTC+03:00":20261228T115000
-DTSTAMP:20261009T123153Z
+DTSTAMP:20261009T221232Z
 UID:31db444b9faaa0683e87d612@belgu-parser
 DESCRIPTION:Тип занятия: Зачёт\nПодгруппа: 1 п/г
  \nПреподаватель: доц. Мирошниченко Натал
@@ -48,7 +48,7 @@ SUMMARY:Элективные дисциплины по физическо
  й культуре и спорту
 DTSTART;TZID="UTC+03:00":20261229T083000
 DTEND;TZID="UTC+03:00":20261229T100500
-DTSTAMP:20261009T123153Z
+DTSTAMP:20261009T221232Z
 UID:4d50d00c6dcfdf3b0ab10c98@belgu-parser
 DESCRIPTION:Тип занятия: Зачёт\n\nУчебные матер
  иалы:\nВ курс: https://pegas.bsu.edu.ru/course/view.php?id=20562
@@ -62,7 +62,7 @@ BEGIN:VEVENT
 SUMMARY:Физика
 DTSTART;TZID="UTC+03:00":20270111T140000
 DTEND;TZID="UTC+03:00":20270111T144500
-DTSTAMP:20261009T123153Z
+DTSTAMP:20261009T221232Z
 UID:d6f2c4b7a2accde656223524@belgu-parser
 DESCRIPTION:Тип занятия: Зачёт\nПодгруппа: 1 п/г
  \nПреподаватель: ст.преп. Бардакова Ирина
@@ -80,7 +80,7 @@ BEGIN:VEVENT
 SUMMARY:Физика
 DTSTART;TZID="UTC+03:00":20270111T145000
 DTEND;TZID="UTC+03:00":20270111T153500
-DTSTAMP:20261009T123153Z
+DTSTAMP:20261009T221232Z
 UID:b86cf5bda4cbf60d197d7f41@belgu-parser
 DESCRIPTION:Тип занятия: Зачёт\nПодгруппа: 2 п/г
  \nПреподаватель: ст.преп. Бардакова Ирина
@@ -98,7 +98,7 @@ BEGIN:VEVENT
 SUMMARY:Основы высшей математики
 DTSTART;TZID="UTC+03:00":20270112T101500
 DTEND;TZID="UTC+03:00":20270112T115000
-DTSTAMP:20261009T123153Z
+DTSTAMP:20261009T221232Z
 UID:9bd9ba2e8ae551cbbafd4606@belgu-parser
 DESCRIPTION:Тип занятия: Зачёт\nПреподаватель:
   доц. Ядута Анна Зауровна\nУчебный корпус
@@ -115,7 +115,7 @@ BEGIN:VEVENT
 SUMMARY:Социология
 DTSTART;TZID="UTC+03:00":20270113T120000
 DTEND;TZID="UTC+03:00":20270113T133500
-DTSTAMP:20261009T123153Z
+DTSTAMP:20261009T221232Z
 UID:a0ffeb2bd5ae21c80f05fcc6@belgu-parser
 DESCRIPTION:Тип занятия: Зачёт\nПреподаватель:
   асс. Ивашина Елена Викторовна\nУчебный к
@@ -132,7 +132,7 @@ BEGIN:VEVENT
 SUMMARY:Введение в специальность
 DTSTART;TZID="UTC+03:00":20270114T140000
 DTEND;TZID="UTC+03:00":20270114T144500
-DTSTAMP:20261009T123153Z
+DTSTAMP:20261009T221232Z
 UID:35c61f5664d61a16e6c303a8@belgu-parser
 DESCRIPTION:Тип занятия: Дифференцированный з
  ачёт\nПодгруппа: 1 п/г\nПреподаватель: доц.
@@ -151,7 +151,7 @@ BEGIN:VEVENT
 SUMMARY:Введение в специальность
 DTSTART;TZID="UTC+03:00":20270114T145000
 DTEND;TZID="UTC+03:00":20270114T153500
-DTSTAMP:20261009T123153Z
+DTSTAMP:20261009T221232Z
 UID:af258709d5635a4bbe386821@belgu-parser
 DESCRIPTION:Тип занятия: Дифференцированный з
  ачёт\nПодгруппа: 2 п/г\nПреподаватель: доц.
@@ -170,7 +170,7 @@ BEGIN:VEVENT
 SUMMARY:Русский язык и культура речи
 DTSTART;TZID="UTC+03:00":20270115T140000
 DTEND;TZID="UTC+03:00":20270115T153500
-DTSTAMP:20261009T123153Z
+DTSTAMP:20261009T221232Z
 UID:7f82a457f5371fdd1d34af89@belgu-parser
 DESCRIPTION:Тип занятия: Зачёт\nПреподаватель:
   доц. Чересюк Полина Андреевна\nУчебный к
@@ -187,7 +187,7 @@ BEGIN:VEVENT
 SUMMARY:Прикладное программирование
 DTSTART;TZID="UTC+03:00":20270119T120000
 DTEND;TZID="UTC+03:00":20270119T133500
-DTSTAMP:20261009T123153Z
+DTSTAMP:20261009T221232Z
 UID:0594d5ea1a90624c862da4d5@belgu-parser
 DESCRIPTION:Тип занятия: Зачёт\nПодгруппа: 1 п/г
  \nПреподаватель: доц. Гахова Нина Николае
@@ -205,7 +205,7 @@ BEGIN:VEVENT
 SUMMARY:Прикладное программирование
 DTSTART;TZID="UTC+03:00":20270119T120000
 DTEND;TZID="UTC+03:00":20270119T133500
-DTSTAMP:20261009T123153Z
+DTSTAMP:20261009T221232Z
 UID:c246f1658fc13cc39e2b7aeb@belgu-parser
 DESCRIPTION:Тип занятия: Зачёт\nПодгруппа: 2 п/г
  \nПреподаватель: ст.преп. Резниченко Олег
