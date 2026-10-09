@@ -10,7 +10,7 @@ BEGIN:VEVENT
 SUMMARY:История мировых религий
 DTSTART;TZID="UTC+03:00":20261005T120000
 DTEND;TZID="UTC+03:00":20261005T133500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:b3d92fea31a73d4d5df620f5@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Стрелкова Ирина Александровна\nУч
@@ -27,7 +27,7 @@ BEGIN:VEVENT
 SUMMARY:Физика
 DTSTART;TZID="UTC+03:00":20261006T101500
 DTEND;TZID="UTC+03:00":20261006T115000
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:8c3b0152f395568e76d0d56e@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: проф. Малай Николай Владимирович\nУчеб
@@ -44,7 +44,7 @@ BEGIN:VEVENT
 SUMMARY:Прикладное программирование
 DTSTART;TZID="UTC+03:00":20261006T120000
 DTEND;TZID="UTC+03:00":20261006T133500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:cc681c246cea40c90012fcea@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Гахова Нина Николаевна\nУчебный к
@@ -61,7 +61,7 @@ BEGIN:VEVENT
 SUMMARY:Теоретические основы кибернетики
 DTSTART;TZID="UTC+03:00":20261008T140000
 DTEND;TZID="UTC+03:00":20261008T153500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:f0b629fafe7e037b36e1d628@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Мигаль Лариса Владимировна\nУчебн
@@ -78,7 +78,7 @@ BEGIN:VEVENT
 SUMMARY:Введение в специальность
 DTSTART;TZID="UTC+03:00":20261009T101500
 DTEND;TZID="UTC+03:00":20261009T115000
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:9acc4bf889334ded522121cd@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Петина Мария Александровна\nУчебн
@@ -95,7 +95,7 @@ BEGIN:VEVENT
 SUMMARY:Основы высшей математики
 DTSTART;TZID="UTC+03:00":20261009T120000
 DTEND;TZID="UTC+03:00":20261009T133500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:a052a5f5aaf52eb8e2ea5a2b@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Ядута Анна Зауровна\nУчебный корп
@@ -113,7 +113,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261009T173000
 DTEND;TZID="UTC+03:00":20261009T190500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:dea60572c810fe51e979c8bd@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Косолапова Наталья Александровна
@@ -129,7 +129,7 @@ BEGIN:VEVENT
 SUMMARY:История России
 DTSTART;TZID="UTC+03:00":20261010T120000
 DTEND;TZID="UTC+03:00":20261010T133500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:8ba5436593b4c64ae6dde24b@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Руднева Мария Александровна\nУчеб
@@ -146,7 +146,7 @@ BEGIN:VEVENT
 SUMMARY:Безопасность жизнедеятельности
 DTSTART;TZID="UTC+03:00":20261013T101500
 DTEND;TZID="UTC+03:00":20261013T115000
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:ff013639bca81c67f3a4a2f4@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: ст.преп. Разенков Павел Игоревич\nУчеб
@@ -163,7 +163,7 @@ BEGIN:VEVENT
 SUMMARY:Прикладное программирование
 DTSTART;TZID="UTC+03:00":20261013T120000
 DTEND;TZID="UTC+03:00":20261013T133500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:b711a993c8175ce79e6f117a@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Гахова Нина Николаевна\nУчебный к
@@ -180,7 +180,7 @@ BEGIN:VEVENT
 SUMMARY:Теоретические основы кибернетики
 DTSTART;TZID="UTC+03:00":20261015T140000
 DTEND;TZID="UTC+03:00":20261015T153500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:a6deb94c8bac6110ddcd67b8@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Мигаль Лариса Владимировна\nУчебн
@@ -197,7 +197,7 @@ BEGIN:VEVENT
 SUMMARY:Введение в специальность
 DTSTART;TZID="UTC+03:00":20261016T101500
 DTEND;TZID="UTC+03:00":20261016T115000
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:074eb4cd0b0331abf5846ca3@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Петина Мария Александровна\nУчебн
@@ -214,7 +214,7 @@ BEGIN:VEVENT
 SUMMARY:Социология
 DTSTART;TZID="UTC+03:00":20261016T120000
 DTEND;TZID="UTC+03:00":20261016T133500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:d79a9bb0e8b299b5c26eaaea@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: асс.\,доц. Чернышева Елена Анатольевна
@@ -232,7 +232,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261016T173000
 DTEND;TZID="UTC+03:00":20261016T190500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:cba13aa417fd04033c7df838@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Косолапова Наталья Александровна
@@ -248,7 +248,7 @@ BEGIN:VEVENT
 SUMMARY:Русский язык и культура речи
 DTSTART;TZID="UTC+03:00":20261017T083000
 DTEND;TZID="UTC+03:00":20261017T100500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:6474d2b52348f6b15c29aabd@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Чересюк Полина Андреевна\n\nУчебны
@@ -264,7 +264,7 @@ BEGIN:VEVENT
 SUMMARY:История России
 DTSTART;TZID="UTC+03:00":20261017T120000
 DTEND;TZID="UTC+03:00":20261017T133500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:313465a4177e11ac47e5aab2@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Руднева Мария Александровна\nУчеб
@@ -281,7 +281,7 @@ BEGIN:VEVENT
 SUMMARY:История мировых религий
 DTSTART;TZID="UTC+03:00":20261019T120000
 DTEND;TZID="UTC+03:00":20261019T133500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:88d0789d5c65a4f55a9237a0@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Стрелкова Ирина Александровна\nУч
@@ -298,7 +298,7 @@ BEGIN:VEVENT
 SUMMARY:Физика
 DTSTART;TZID="UTC+03:00":20261020T101500
 DTEND;TZID="UTC+03:00":20261020T115000
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:98fce0038f43d0386b3e2822@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: проф. Малай Николай Владимирович\nУчеб
@@ -315,7 +315,7 @@ BEGIN:VEVENT
 SUMMARY:Прикладное программирование
 DTSTART;TZID="UTC+03:00":20261020T120000
 DTEND;TZID="UTC+03:00":20261020T133500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:1db4cdf7e4d91087109aa908@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Гахова Нина Николаевна\nУчебный к
@@ -332,7 +332,7 @@ BEGIN:VEVENT
 SUMMARY:Теоретические основы кибернетики
 DTSTART;TZID="UTC+03:00":20261022T140000
 DTEND;TZID="UTC+03:00":20261022T153500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:a53052f13ada112f00d54466@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Мигаль Лариса Владимировна\nУчебн
@@ -349,7 +349,7 @@ BEGIN:VEVENT
 SUMMARY:Введение в специальность
 DTSTART;TZID="UTC+03:00":20261023T101500
 DTEND;TZID="UTC+03:00":20261023T115000
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:6a80a6993453d01aebb99bf7@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Петина Мария Александровна\nУчебн
@@ -366,7 +366,7 @@ BEGIN:VEVENT
 SUMMARY:Основы высшей математики
 DTSTART;TZID="UTC+03:00":20261023T120000
 DTEND;TZID="UTC+03:00":20261023T133500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:59a2b3ae12c38f01e7bbbe79@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Ядута Анна Зауровна\nУчебный корп
@@ -384,7 +384,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261023T173000
 DTEND;TZID="UTC+03:00":20261023T190500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:fd04421b7a01d33d8e27a29b@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Косолапова Наталья Александровна
@@ -400,7 +400,7 @@ BEGIN:VEVENT
 SUMMARY:История России
 DTSTART;TZID="UTC+03:00":20261024T120000
 DTEND;TZID="UTC+03:00":20261024T133500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:4007b15cfb068f614fe2e7af@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Руднева Мария Александровна\nУчеб
@@ -417,7 +417,7 @@ BEGIN:VEVENT
 SUMMARY:Безопасность жизнедеятельности
 DTSTART;TZID="UTC+03:00":20261027T101500
 DTEND;TZID="UTC+03:00":20261027T115000
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:fdd0535b894cc1780770a7bb@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: ст.преп. Разенков Павел Игоревич\nУчеб
@@ -434,7 +434,7 @@ BEGIN:VEVENT
 SUMMARY:Прикладное программирование
 DTSTART;TZID="UTC+03:00":20261027T120000
 DTEND;TZID="UTC+03:00":20261027T133500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:db7d02ef9638b307df507137@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Гахова Нина Николаевна\nУчебный к
@@ -451,7 +451,7 @@ BEGIN:VEVENT
 SUMMARY:Теоретические основы кибернетики
 DTSTART;TZID="UTC+03:00":20261029T140000
 DTEND;TZID="UTC+03:00":20261029T153500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:b64e29ada9eae850ccf3939e@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Мигаль Лариса Владимировна\nУчебн
@@ -468,7 +468,7 @@ BEGIN:VEVENT
 SUMMARY:Введение в специальность
 DTSTART;TZID="UTC+03:00":20261030T101500
 DTEND;TZID="UTC+03:00":20261030T115000
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:eaf41f26e4a039a8fb7e1958@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Петина Мария Александровна\nУчебн
@@ -485,7 +485,7 @@ BEGIN:VEVENT
 SUMMARY:Социология
 DTSTART;TZID="UTC+03:00":20261030T120000
 DTEND;TZID="UTC+03:00":20261030T133500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:c706e6f8618943e503d8cf20@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: асс.\,доц. Чернышева Елена Анатольевна
@@ -503,7 +503,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261030T173000
 DTEND;TZID="UTC+03:00":20261030T190500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:0ed5c0ae369c33d15f2cd3b4@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Косолапова Наталья Александровна
@@ -519,7 +519,7 @@ BEGIN:VEVENT
 SUMMARY:Русский язык и культура речи
 DTSTART;TZID="UTC+03:00":20261031T083000
 DTEND;TZID="UTC+03:00":20261031T100500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:7eabe232c0689924cbf8febc@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Чересюк Полина Андреевна\n\nУчебны
@@ -535,7 +535,7 @@ BEGIN:VEVENT
 SUMMARY:История России
 DTSTART;TZID="UTC+03:00":20261031T120000
 DTEND;TZID="UTC+03:00":20261031T133500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:fa404162deef13044d9ede5d@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Руднева Мария Александровна\nУчеб
@@ -552,7 +552,7 @@ BEGIN:VEVENT
 SUMMARY:История мировых религий
 DTSTART;TZID="UTC+03:00":20261102T120000
 DTEND;TZID="UTC+03:00":20261102T133500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:4ff4f91c414715d39dfd245e@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Стрелкова Ирина Александровна\nУч
@@ -569,7 +569,7 @@ BEGIN:VEVENT
 SUMMARY:Физика
 DTSTART;TZID="UTC+03:00":20261103T101500
 DTEND;TZID="UTC+03:00":20261103T115000
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:2353a48319b5aff90103db2f@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: проф. Малай Николай Владимирович\nУчеб
@@ -586,7 +586,7 @@ BEGIN:VEVENT
 SUMMARY:Прикладное программирование
 DTSTART;TZID="UTC+03:00":20261103T120000
 DTEND;TZID="UTC+03:00":20261103T133500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:4b555fdeac2d7cfee984764d@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Гахова Нина Николаевна\nУчебный к
@@ -603,7 +603,7 @@ BEGIN:VEVENT
 SUMMARY:Теоретические основы кибернетики
 DTSTART;TZID="UTC+03:00":20261105T140000
 DTEND;TZID="UTC+03:00":20261105T153500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:d19cb2a0aa146fdb57cc4daa@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Мигаль Лариса Владимировна\nУчебн
@@ -620,7 +620,7 @@ BEGIN:VEVENT
 SUMMARY:Введение в специальность
 DTSTART;TZID="UTC+03:00":20261106T101500
 DTEND;TZID="UTC+03:00":20261106T115000
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:a380a28a936a6e521495c745@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Петина Мария Александровна\nУчебн
@@ -637,7 +637,7 @@ BEGIN:VEVENT
 SUMMARY:Основы высшей математики
 DTSTART;TZID="UTC+03:00":20261106T120000
 DTEND;TZID="UTC+03:00":20261106T133500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:a84a88b5b1dae960375152b8@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Ядута Анна Зауровна\nУчебный корп
@@ -655,7 +655,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261106T173000
 DTEND;TZID="UTC+03:00":20261106T190500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:8266eed37d391704eaee0cfb@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Косолапова Наталья Александровна
@@ -671,7 +671,7 @@ BEGIN:VEVENT
 SUMMARY:История России
 DTSTART;TZID="UTC+03:00":20261107T120000
 DTEND;TZID="UTC+03:00":20261107T133500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:ec15e1be2ef921990d2379aa@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Руднева Мария Александровна\nУчеб
@@ -688,7 +688,7 @@ BEGIN:VEVENT
 SUMMARY:Безопасность жизнедеятельности
 DTSTART;TZID="UTC+03:00":20261110T101500
 DTEND;TZID="UTC+03:00":20261110T115000
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:53cc94756e6bab28a61e1c28@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: ст.преп. Разенков Павел Игоревич\nУчеб
@@ -705,7 +705,7 @@ BEGIN:VEVENT
 SUMMARY:Прикладное программирование
 DTSTART;TZID="UTC+03:00":20261110T120000
 DTEND;TZID="UTC+03:00":20261110T133500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:8c952fbb2a57bea0e2e034fe@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Гахова Нина Николаевна\nУчебный к
@@ -722,7 +722,7 @@ BEGIN:VEVENT
 SUMMARY:Теоретические основы кибернетики
 DTSTART;TZID="UTC+03:00":20261112T140000
 DTEND;TZID="UTC+03:00":20261112T153500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:7d8568561dd40be482bdea0f@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Мигаль Лариса Владимировна\nУчебн
@@ -739,7 +739,7 @@ BEGIN:VEVENT
 SUMMARY:Введение в специальность
 DTSTART;TZID="UTC+03:00":20261113T101500
 DTEND;TZID="UTC+03:00":20261113T115000
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:48d150618473ecfa2f23ebce@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Петина Мария Александровна\nУчебн
@@ -756,7 +756,7 @@ BEGIN:VEVENT
 SUMMARY:Социология
 DTSTART;TZID="UTC+03:00":20261113T120000
 DTEND;TZID="UTC+03:00":20261113T133500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:0d4cedd19a5e1e77c66b36b8@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: асс.\,доц. Чернышева Елена Анатольевна
@@ -774,7 +774,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261113T173000
 DTEND;TZID="UTC+03:00":20261113T190500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:b1fc9bb250344747f9efaf05@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Косолапова Наталья Александровна
@@ -790,7 +790,7 @@ BEGIN:VEVENT
 SUMMARY:Русский язык и культура речи
 DTSTART;TZID="UTC+03:00":20261114T083000
 DTEND;TZID="UTC+03:00":20261114T100500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:85603b48440bda65a701c75b@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Чересюк Полина Андреевна\n\nУчебны
@@ -806,7 +806,7 @@ BEGIN:VEVENT
 SUMMARY:История России
 DTSTART;TZID="UTC+03:00":20261114T120000
 DTEND;TZID="UTC+03:00":20261114T133500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:c583105a73b5f1a49f431896@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Руднева Мария Александровна\nУчеб
@@ -823,7 +823,7 @@ BEGIN:VEVENT
 SUMMARY:Физика
 DTSTART;TZID="UTC+03:00":20261117T101500
 DTEND;TZID="UTC+03:00":20261117T115000
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:b774ffad38744bf97e8e8a7e@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: проф. Малай Николай Владимирович\nУчеб
@@ -840,7 +840,7 @@ BEGIN:VEVENT
 SUMMARY:Прикладное программирование
 DTSTART;TZID="UTC+03:00":20261117T120000
 DTEND;TZID="UTC+03:00":20261117T133500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:5f780f8108a7ee35a48168d2@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Гахова Нина Николаевна\nУчебный к
@@ -857,7 +857,7 @@ BEGIN:VEVENT
 SUMMARY:Теоретические основы кибернетики
 DTSTART;TZID="UTC+03:00":20261119T140000
 DTEND;TZID="UTC+03:00":20261119T153500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:6f76a1f1a21ada34a9fe46ff@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Мигаль Лариса Владимировна\nУчебн
@@ -874,7 +874,7 @@ BEGIN:VEVENT
 SUMMARY:Введение в специальность
 DTSTART;TZID="UTC+03:00":20261120T101500
 DTEND;TZID="UTC+03:00":20261120T115000
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:b74c1db2a5d981a99af6d0e3@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Петина Мария Александровна\nУчебн
@@ -891,7 +891,7 @@ BEGIN:VEVENT
 SUMMARY:Основы высшей математики
 DTSTART;TZID="UTC+03:00":20261120T120000
 DTEND;TZID="UTC+03:00":20261120T133500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:6767b718237bf1a8f019fa40@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Ядута Анна Зауровна\nУчебный корп
@@ -909,7 +909,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261120T173000
 DTEND;TZID="UTC+03:00":20261120T190500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:0710e16f015ddb77ac019251@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Косолапова Наталья Александровна
@@ -925,7 +925,7 @@ BEGIN:VEVENT
 SUMMARY:История России
 DTSTART;TZID="UTC+03:00":20261121T120000
 DTEND;TZID="UTC+03:00":20261121T133500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:e3786586ae88760e61ae5d04@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Руднева Мария Александровна\nУчеб
@@ -942,7 +942,7 @@ BEGIN:VEVENT
 SUMMARY:Безопасность жизнедеятельности
 DTSTART;TZID="UTC+03:00":20261124T101500
 DTEND;TZID="UTC+03:00":20261124T115000
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:3f12944603194480714a946a@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: ст.преп. Разенков Павел Игоревич\nУчеб
@@ -959,7 +959,7 @@ BEGIN:VEVENT
 SUMMARY:Прикладное программирование
 DTSTART;TZID="UTC+03:00":20261124T120000
 DTEND;TZID="UTC+03:00":20261124T133500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:c3ebc527aebcbf01bd1f1e4a@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Гахова Нина Николаевна\nУчебный к
@@ -976,7 +976,7 @@ BEGIN:VEVENT
 SUMMARY:Теоретические основы кибернетики
 DTSTART;TZID="UTC+03:00":20261126T140000
 DTEND;TZID="UTC+03:00":20261126T153500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:96f6627dadae0b945d19f9d4@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Мигаль Лариса Владимировна\nУчебн
@@ -993,7 +993,7 @@ BEGIN:VEVENT
 SUMMARY:Введение в специальность
 DTSTART;TZID="UTC+03:00":20261127T101500
 DTEND;TZID="UTC+03:00":20261127T115000
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:2aadc8c4931ecfb15d5e4911@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Петина Мария Александровна\nУчебн
@@ -1010,7 +1010,7 @@ BEGIN:VEVENT
 SUMMARY:Социология
 DTSTART;TZID="UTC+03:00":20261127T120000
 DTEND;TZID="UTC+03:00":20261127T133500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:591f9274c5ef08341de63cd9@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: асс.\,доц. Чернышева Елена Анатольевна
@@ -1028,7 +1028,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261127T173000
 DTEND;TZID="UTC+03:00":20261127T190500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:3ebcb49d092addb3b39610a9@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Косолапова Наталья Александровна
@@ -1044,7 +1044,7 @@ BEGIN:VEVENT
 SUMMARY:Русский язык и культура речи
 DTSTART;TZID="UTC+03:00":20261128T083000
 DTEND;TZID="UTC+03:00":20261128T100500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:7de3c11ce7bb08601b8e668f@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Чересюк Полина Андреевна\n\nУчебны
@@ -1060,7 +1060,7 @@ BEGIN:VEVENT
 SUMMARY:История России
 DTSTART;TZID="UTC+03:00":20261128T120000
 DTEND;TZID="UTC+03:00":20261128T133500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:66e95ee06082aef6293cd6a0@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Руднева Мария Александровна\nУчеб
@@ -1078,7 +1078,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261130T173000
 DTEND;TZID="UTC+03:00":20261130T190500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:c684459c56c63a8150cc0e50@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Косолапова Наталья Александровна
@@ -1094,7 +1094,7 @@ BEGIN:VEVENT
 SUMMARY:Физика
 DTSTART;TZID="UTC+03:00":20261201T101500
 DTEND;TZID="UTC+03:00":20261201T115000
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:8567a142a8f5ebb773444dac@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: проф. Малай Николай Владимирович\nУчеб
@@ -1111,7 +1111,7 @@ BEGIN:VEVENT
 SUMMARY:Прикладное программирование
 DTSTART;TZID="UTC+03:00":20261201T120000
 DTEND;TZID="UTC+03:00":20261201T133500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:ab21d93b341d7c4b9f08dbc5@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Гахова Нина Николаевна\nУчебный к
@@ -1128,7 +1128,7 @@ BEGIN:VEVENT
 SUMMARY:Теоретические основы кибернетики
 DTSTART;TZID="UTC+03:00":20261203T140000
 DTEND;TZID="UTC+03:00":20261203T153500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:f2480ced328cad7adcaab9a7@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Мигаль Лариса Владимировна\nУчебн
@@ -1145,7 +1145,7 @@ BEGIN:VEVENT
 SUMMARY:Введение в специальность
 DTSTART;TZID="UTC+03:00":20261204T101500
 DTEND;TZID="UTC+03:00":20261204T115000
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:fd685b379b7ad67efb381815@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Петина Мария Александровна\nУчебн
@@ -1162,7 +1162,7 @@ BEGIN:VEVENT
 SUMMARY:Основы высшей математики
 DTSTART;TZID="UTC+03:00":20261204T120000
 DTEND;TZID="UTC+03:00":20261204T133500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:e9e7b30d8c279b3097c3819c@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Ядута Анна Зауровна\nУчебный корп
@@ -1180,7 +1180,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261204T173000
 DTEND;TZID="UTC+03:00":20261204T190500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:d7412968595ace090edd7dfc@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Косолапова Наталья Александровна
@@ -1196,7 +1196,7 @@ BEGIN:VEVENT
 SUMMARY:История России
 DTSTART;TZID="UTC+03:00":20261205T120000
 DTEND;TZID="UTC+03:00":20261205T133500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:1eb9f670c82cc8fe1bfcd0c6@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Руднева Мария Александровна\nУчеб
@@ -1213,7 +1213,7 @@ BEGIN:VEVENT
 SUMMARY:Безопасность жизнедеятельности
 DTSTART;TZID="UTC+03:00":20261208T101500
 DTEND;TZID="UTC+03:00":20261208T115000
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:01c7d70050138c702d3d7dcb@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: ст.преп. Разенков Павел Игоревич\nУчеб
@@ -1230,7 +1230,7 @@ BEGIN:VEVENT
 SUMMARY:Прикладное программирование
 DTSTART;TZID="UTC+03:00":20261208T120000
 DTEND;TZID="UTC+03:00":20261208T133500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:fc2d718025bdb201ad3df51d@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Гахова Нина Николаевна\nУчебный к
@@ -1247,7 +1247,7 @@ BEGIN:VEVENT
 SUMMARY:Теоретические основы кибернетики
 DTSTART;TZID="UTC+03:00":20261210T140000
 DTEND;TZID="UTC+03:00":20261210T153500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:1fc5993e696dc79cdad2ffb4@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Мигаль Лариса Владимировна\nУчебн
@@ -1264,7 +1264,7 @@ BEGIN:VEVENT
 SUMMARY:Введение в специальность
 DTSTART;TZID="UTC+03:00":20261211T101500
 DTEND;TZID="UTC+03:00":20261211T115000
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:4837d4da504837e622f848a3@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Петина Мария Александровна\nУчебн
@@ -1281,7 +1281,7 @@ BEGIN:VEVENT
 SUMMARY:Социология
 DTSTART;TZID="UTC+03:00":20261211T120000
 DTEND;TZID="UTC+03:00":20261211T133500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:07190129db35c8d4eb15669c@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: асс.\,доц. Чернышева Елена Анатольевна
@@ -1298,7 +1298,7 @@ BEGIN:VEVENT
 SUMMARY:Русский язык и культура речи
 DTSTART;TZID="UTC+03:00":20261212T083000
 DTEND;TZID="UTC+03:00":20261212T100500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:a626e35fcba3753cc1241c8e@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Чересюк Полина Андреевна\n\nУчебны
@@ -1314,7 +1314,7 @@ BEGIN:VEVENT
 SUMMARY:История России
 DTSTART;TZID="UTC+03:00":20261212T120000
 DTEND;TZID="UTC+03:00":20261212T133500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:5f6dd75ccbc25ccff8fc9958@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Руднева Мария Александровна\nУчеб
@@ -1331,7 +1331,7 @@ BEGIN:VEVENT
 SUMMARY:Физика
 DTSTART;TZID="UTC+03:00":20261215T101500
 DTEND;TZID="UTC+03:00":20261215T115000
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:0e9515de8b2f51e4255afac3@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: проф. Малай Николай Владимирович\nУчеб
@@ -1348,7 +1348,7 @@ BEGIN:VEVENT
 SUMMARY:Теоретические основы кибернетики
 DTSTART;TZID="UTC+03:00":20261217T140000
 DTEND;TZID="UTC+03:00":20261217T153500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:94977e47b2c61638933081cc@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Мигаль Лариса Владимировна\nУчебн
@@ -1365,7 +1365,7 @@ BEGIN:VEVENT
 SUMMARY:Основы высшей математики
 DTSTART;TZID="UTC+03:00":20261218T120000
 DTEND;TZID="UTC+03:00":20261218T133500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:a174fa92aa43cdb847c99179@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Ядута Анна Зауровна\nУчебный корп
@@ -1382,7 +1382,7 @@ BEGIN:VEVENT
 SUMMARY:Теоретические основы кибернетики
 DTSTART;TZID="UTC+03:00":20261224T140000
 DTEND;TZID="UTC+03:00":20261224T153500
-DTSTAMP:20261008T225033Z
+DTSTAMP:20261009T042637Z
 UID:bf362c40d584aec5054cccc8@belgu-parser
 DESCRIPTION:Тип занятия: Лекция\nПреподавател
  ь: доц. Мигаль Лариса Владимировна\nУчебн
