@@ -10,7 +10,7 @@ BEGIN:VEVENT
 SUMMARY:Иностранный язык
 DTSTART;TZID="UTC+03:00":20261012T101500
 DTEND;TZID="UTC+03:00":20261012T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:f31ee00ed4e173f07cdc3dde@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: доц. Мир
@@ -30,7 +30,7 @@ BEGIN:VEVENT
 SUMMARY:История России
 DTSTART;TZID="UTC+03:00":20261012T120000
 DTEND;TZID="UTC+03:00":20261012T133500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:367be31c8bc133f69d78a2b7@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПреподаватель: асс. Фартушной Никита Ол
@@ -47,7 +47,7 @@ BEGIN:VEVENT
 SUMMARY:Безопасность жизнедеятельности
 DTSTART;TZID="UTC+03:00":20261014T083000
 DTEND;TZID="UTC+03:00":20261014T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:39023a538526a1969b524848@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: ст.преп. 
@@ -66,7 +66,7 @@ BEGIN:VEVENT
 SUMMARY:Безопасность жизнедеятельности
 DTSTART;TZID="UTC+03:00":20261014T083000
 DTEND;TZID="UTC+03:00":20261014T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:5ebcebd316e1b761b9fa26ed@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 2 п/г\nПреподаватель: асс. Кос
@@ -85,7 +85,7 @@ BEGIN:VEVENT
 SUMMARY:Безопасность жизнедеятельности
 DTSTART;TZID="UTC+03:00":20261014T083000
 DTEND;TZID="UTC+03:00":20261014T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:27ee5d8c971275f1edb54e34@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 3 п/г\nПреподаватель: асс. Дур
@@ -104,7 +104,7 @@ BEGIN:VEVENT
 SUMMARY:Безопасность жизнедеятельности
 DTSTART;TZID="UTC+03:00":20261014T083000
 DTEND;TZID="UTC+03:00":20261014T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:4b2da83382765bde0576716b@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 4 п/г\nПреподаватель: асс. Рае
@@ -123,7 +123,7 @@ BEGIN:VEVENT
 SUMMARY:Безопасность жизнедеятельности
 DTSTART;TZID="UTC+03:00":20261014T083000
 DTEND;TZID="UTC+03:00":20261014T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:505353415eb300578110935b@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 5 п/г\nПреподаватель: доц. Кис
@@ -142,7 +142,7 @@ BEGIN:VEVENT
 SUMMARY:Основы проектного менеджмента
 DTSTART;TZID="UTC+03:00":20261014T101500
 DTEND;TZID="UTC+03:00":20261014T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:f9908a92ff8a2f1a297ae859@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: асс. Гне
@@ -161,7 +161,7 @@ BEGIN:VEVENT
 SUMMARY:Основы проектного менеджмента
 DTSTART;TZID="UTC+03:00":20261014T101500
 DTEND;TZID="UTC+03:00":20261014T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:b1d91979bd2528f147a3e050@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 2 п/г\nПреподаватель: доц. Вла
@@ -180,7 +180,7 @@ BEGIN:VEVENT
 SUMMARY:Основы проектного менеджмента
 DTSTART;TZID="UTC+03:00":20261014T101500
 DTEND;TZID="UTC+03:00":20261014T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:d34e1dfd564a6bae23c5e423@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 3 п/г\nПреподаватель: доц. Тит
@@ -198,7 +198,7 @@ BEGIN:VEVENT
 SUMMARY:Основы проектного менеджмента
 DTSTART;TZID="UTC+03:00":20261014T101500
 DTEND;TZID="UTC+03:00":20261014T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:5c810552a8c5a33900c2359a@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 4 п/г\nПреподаватель: доц. Цел
@@ -217,7 +217,7 @@ BEGIN:VEVENT
 SUMMARY:Основы проектного менеджмента
 DTSTART;TZID="UTC+03:00":20261014T101500
 DTEND;TZID="UTC+03:00":20261014T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:ad6b7074a5e1466737e1ddb1@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 5 п/г\nПреподаватель: доц. Оса
@@ -237,7 +237,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261014T154500
 DTEND;TZID="UTC+03:00":20261014T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:16c382833af236072a6b3726@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: асс. Нес
@@ -256,7 +256,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261014T154500
 DTEND;TZID="UTC+03:00":20261014T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:9de263881b1145e12700c150@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 2 п/г\nПреподаватель: доц. Кра
@@ -275,7 +275,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261014T154500
 DTEND;TZID="UTC+03:00":20261014T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:c26df99717e7d24affc463fe@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 3 п/г\nПреподаватель: доц. Хме
@@ -294,7 +294,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261014T154500
 DTEND;TZID="UTC+03:00":20261014T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:4513bcb680c0c89bd19d77df@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 4 п/г\nПреподаватель: асс. Гет
@@ -313,7 +313,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261014T154500
 DTEND;TZID="UTC+03:00":20261014T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:12e29dc558bc0f60ef134579@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 5 п/г\nПреподаватель: асс. Шма
@@ -331,7 +331,7 @@ BEGIN:VEVENT
 SUMMARY:Основы высшей математики
 DTSTART;TZID="UTC+03:00":20261016T140000
 DTEND;TZID="UTC+03:00":20261016T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:3ab63c36d67bb14703a30a76@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПреподаватель: доц. Резниченко Татьяна 
@@ -348,7 +348,7 @@ BEGIN:VEVENT
 SUMMARY:Русский язык и культура речи
 DTSTART;TZID="UTC+03:00":20261017T101500
 DTEND;TZID="UTC+03:00":20261017T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:c0e6e588677d3c4a6b4d4847@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПреподаватель: доц. Чересюк Полина Андр
@@ -366,7 +366,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261017T140000
 DTEND;TZID="UTC+03:00":20261017T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:a2ebf7f0b0c0356e0bf5459e@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: асс. Нес
@@ -385,7 +385,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261017T140000
 DTEND;TZID="UTC+03:00":20261017T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:0d4ea439afd17ac28d5ad047@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 2 п/г\nПреподаватель: доц. Кра
@@ -404,7 +404,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261017T140000
 DTEND;TZID="UTC+03:00":20261017T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:25bcc5733b9e234e17318363@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 3 п/г\nПреподаватель: доц. Хме
@@ -423,7 +423,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261017T140000
 DTEND;TZID="UTC+03:00":20261017T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:404a5db313fda5476d72f3a9@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 4 п/г\nПреподаватель: асс. Гет
@@ -442,7 +442,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261017T140000
 DTEND;TZID="UTC+03:00":20261017T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:331b085fa8d63f3bb78ac5fe@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 5 п/г\nПреподаватель: асс. Шма
@@ -461,7 +461,7 @@ SUMMARY:Элективные дисциплины по физическо
  й культуре и спорту
 DTSTART;TZID="UTC+03:00":20261019T083000
 DTEND;TZID="UTC+03:00":20261019T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:ed3ce140551a85b84fbb5669@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \n\nУчебные материалы:\nВ курс: https://pegas.bsu.edu
@@ -475,7 +475,7 @@ BEGIN:VEVENT
 SUMMARY:Иностранный язык
 DTSTART;TZID="UTC+03:00":20261019T101500
 DTEND;TZID="UTC+03:00":20261019T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:64be836dc119bae2ff37a869@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: доц. Мир
@@ -495,7 +495,7 @@ BEGIN:VEVENT
 SUMMARY:Социология
 DTSTART;TZID="UTC+03:00":20261019T140000
 DTEND;TZID="UTC+03:00":20261019T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:65a552b81ffc6c0efb2f4f34@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПреподаватель: асс. Ивашина Елена Викто
@@ -513,7 +513,7 @@ SUMMARY:Элективные дисциплины по физическо
  й культуре и спорту
 DTSTART;TZID="UTC+03:00":20261020T083000
 DTEND;TZID="UTC+03:00":20261020T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:047522f7b7bc058c6114a849@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \n\nУчебные материалы:\nВ курс: https://pegas.bsu.edu
@@ -527,7 +527,7 @@ BEGIN:VEVENT
 SUMMARY:Русский язык и культура речи
 DTSTART;TZID="UTC+03:00":20261021T083000
 DTEND;TZID="UTC+03:00":20261021T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:594f27cdd57f631f0855595e@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПреподаватель: доц. Чересюк Полина Андр
@@ -544,7 +544,7 @@ BEGIN:VEVENT
 SUMMARY:История России
 DTSTART;TZID="UTC+03:00":20261021T101500
 DTEND;TZID="UTC+03:00":20261021T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:4fa04c70dc4a447f9070efb2@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПреподаватель: асс. Фартушной Никита Ол
@@ -562,7 +562,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261021T154500
 DTEND;TZID="UTC+03:00":20261021T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:d4d44ff60f2d6e4c968ff6ee@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: асс. Нес
@@ -581,7 +581,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261021T154500
 DTEND;TZID="UTC+03:00":20261021T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:1bb4669b1da8739392e68b54@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 2 п/г\nПреподаватель: доц. Кра
@@ -600,7 +600,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261021T154500
 DTEND;TZID="UTC+03:00":20261021T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:f223c12b46b9f8fb650b51da@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 3 п/г\nПреподаватель: доц. Хме
@@ -619,7 +619,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261021T154500
 DTEND;TZID="UTC+03:00":20261021T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:4310e1ab2c57d888f5ee8034@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 4 п/г\nПреподаватель: асс. Гет
@@ -638,7 +638,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261021T154500
 DTEND;TZID="UTC+03:00":20261021T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:2dde15656503fadafff3bd16@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 5 п/г\nПреподаватель: асс. Шма
@@ -657,7 +657,7 @@ SUMMARY:Элективные дисциплины по физическо
  й культуре и спорту
 DTSTART;TZID="UTC+03:00":20261022T083000
 DTEND;TZID="UTC+03:00":20261022T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:3b8d1f7fcc9dfafe47c85170@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \n\nУчебные материалы:\nВ курс: https://pegas.bsu.edu
@@ -672,7 +672,7 @@ SUMMARY:Элективные дисциплины по физическо
  й культуре и спорту
 DTSTART;TZID="UTC+03:00":20261023T083000
 DTEND;TZID="UTC+03:00":20261023T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:a3949b88bbc47b3a5862c2d8@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \n\nУчебные материалы:\nВ курс: https://pegas.bsu.edu
@@ -687,7 +687,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261024T140000
 DTEND;TZID="UTC+03:00":20261024T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:9a6f03403a78fccac724e874@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: асс. Нес
@@ -706,7 +706,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261024T140000
 DTEND;TZID="UTC+03:00":20261024T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:1b8516340d325648898531c2@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 2 п/г\nПреподаватель: доц. Кра
@@ -725,7 +725,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261024T140000
 DTEND;TZID="UTC+03:00":20261024T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:4ac433fec7acc63f0a65b481@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 3 п/г\nПреподаватель: доц. Хме
@@ -744,7 +744,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261024T140000
 DTEND;TZID="UTC+03:00":20261024T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:50842205916f153e0d801987@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 4 п/г\nПреподаватель: асс. Гет
@@ -763,7 +763,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261024T140000
 DTEND;TZID="UTC+03:00":20261024T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:2bf3fa405a5f7c292bf1c6a4@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 5 п/г\nПреподаватель: асс. Шма
@@ -782,7 +782,7 @@ SUMMARY:Элективные дисциплины по физическо
  й культуре и спорту
 DTSTART;TZID="UTC+03:00":20261026T083000
 DTEND;TZID="UTC+03:00":20261026T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:ffe38b350890d94c62102572@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \n\nУчебные материалы:\nВ курс: https://pegas.bsu.edu
@@ -796,7 +796,7 @@ BEGIN:VEVENT
 SUMMARY:Иностранный язык
 DTSTART;TZID="UTC+03:00":20261026T101500
 DTEND;TZID="UTC+03:00":20261026T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:2a4de8fc1abc0ad357d8ca75@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: доц. Мир
@@ -816,7 +816,7 @@ BEGIN:VEVENT
 SUMMARY:История России
 DTSTART;TZID="UTC+03:00":20261026T120000
 DTEND;TZID="UTC+03:00":20261026T133500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:a900cabb8f54ebbc704729d0@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПреподаватель: асс. Фартушной Никита Ол
@@ -834,7 +834,7 @@ SUMMARY:Элективные дисциплины по физическо
  й культуре и спорту
 DTSTART;TZID="UTC+03:00":20261027T083000
 DTEND;TZID="UTC+03:00":20261027T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:485a7384ac584aae4ddd657c@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \n\nУчебные материалы:\nВ курс: https://pegas.bsu.edu
@@ -848,7 +848,7 @@ BEGIN:VEVENT
 SUMMARY:Безопасность жизнедеятельности
 DTSTART;TZID="UTC+03:00":20261028T083000
 DTEND;TZID="UTC+03:00":20261028T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:b9bdee0e0d4b8e402919f45b@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: ст.преп. 
@@ -867,7 +867,7 @@ BEGIN:VEVENT
 SUMMARY:Безопасность жизнедеятельности
 DTSTART;TZID="UTC+03:00":20261028T083000
 DTEND;TZID="UTC+03:00":20261028T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:98c60a0e0b2c1e140e350ef3@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 2 п/г\nПреподаватель: асс. Кос
@@ -886,7 +886,7 @@ BEGIN:VEVENT
 SUMMARY:Безопасность жизнедеятельности
 DTSTART;TZID="UTC+03:00":20261028T083000
 DTEND;TZID="UTC+03:00":20261028T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:d80d75befb176c107dddae51@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 3 п/г\nПреподаватель: асс. Дур
@@ -905,7 +905,7 @@ BEGIN:VEVENT
 SUMMARY:Безопасность жизнедеятельности
 DTSTART;TZID="UTC+03:00":20261028T083000
 DTEND;TZID="UTC+03:00":20261028T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:b6c12d82a9985c477b2b0dbd@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 4 п/г\nПреподаватель: асс. Рае
@@ -924,7 +924,7 @@ BEGIN:VEVENT
 SUMMARY:Безопасность жизнедеятельности
 DTSTART;TZID="UTC+03:00":20261028T083000
 DTEND;TZID="UTC+03:00":20261028T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:999b5a87f383028ac7bbb4e7@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 5 п/г\nПреподаватель: доц. Кис
@@ -943,7 +943,7 @@ BEGIN:VEVENT
 SUMMARY:Основы проектного менеджмента
 DTSTART;TZID="UTC+03:00":20261028T101500
 DTEND;TZID="UTC+03:00":20261028T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:a1c888baa3bc69ab94396652@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: асс. Гне
@@ -962,7 +962,7 @@ BEGIN:VEVENT
 SUMMARY:Основы проектного менеджмента
 DTSTART;TZID="UTC+03:00":20261028T101500
 DTEND;TZID="UTC+03:00":20261028T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:06f684c0d2a923151ecc705d@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 2 п/г\nПреподаватель: доц. Вла
@@ -981,7 +981,7 @@ BEGIN:VEVENT
 SUMMARY:Основы проектного менеджмента
 DTSTART;TZID="UTC+03:00":20261028T101500
 DTEND;TZID="UTC+03:00":20261028T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:4cb7c455fea922ebb59d9b51@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 3 п/г\nПреподаватель: доц. Тит
@@ -999,7 +999,7 @@ BEGIN:VEVENT
 SUMMARY:Основы проектного менеджмента
 DTSTART;TZID="UTC+03:00":20261028T101500
 DTEND;TZID="UTC+03:00":20261028T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:51879548fc2f4c92168fae77@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 4 п/г\nПреподаватель: доц. Цел
@@ -1018,7 +1018,7 @@ BEGIN:VEVENT
 SUMMARY:Основы проектного менеджмента
 DTSTART;TZID="UTC+03:00":20261028T101500
 DTEND;TZID="UTC+03:00":20261028T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:fe5f6c140b5124729c5c89e3@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 5 п/г\nПреподаватель: доц. Оса
@@ -1038,7 +1038,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261028T154500
 DTEND;TZID="UTC+03:00":20261028T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:2b019706e63fb3e4db3ef908@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: асс. Нес
@@ -1057,7 +1057,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261028T154500
 DTEND;TZID="UTC+03:00":20261028T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:451c0e8b67b43d4ffd53fe56@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 2 п/г\nПреподаватель: доц. Кра
@@ -1076,7 +1076,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261028T154500
 DTEND;TZID="UTC+03:00":20261028T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:f468fbae76c7bb4f02f94932@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 3 п/г\nПреподаватель: доц. Хме
@@ -1095,7 +1095,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261028T154500
 DTEND;TZID="UTC+03:00":20261028T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:9f0de664b93e3d4cb6fffb34@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 4 п/г\nПреподаватель: асс. Гет
@@ -1114,7 +1114,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261028T154500
 DTEND;TZID="UTC+03:00":20261028T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:6884c11d13a89de1335b0cdc@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 5 п/г\nПреподаватель: асс. Шма
@@ -1133,7 +1133,7 @@ SUMMARY:Элективные дисциплины по физическо
  й культуре и спорту
 DTSTART;TZID="UTC+03:00":20261029T083000
 DTEND;TZID="UTC+03:00":20261029T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:f7c57e22033385b588b8acaa@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \n\nУчебные материалы:\nВ курс: https://pegas.bsu.edu
@@ -1148,7 +1148,7 @@ SUMMARY:Элективные дисциплины по физическо
  й культуре и спорту
 DTSTART;TZID="UTC+03:00":20261030T083000
 DTEND;TZID="UTC+03:00":20261030T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:2b11cabc983e4331b888d966@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \n\nУчебные материалы:\nВ курс: https://pegas.bsu.edu
@@ -1162,7 +1162,7 @@ BEGIN:VEVENT
 SUMMARY:Основы высшей математики
 DTSTART;TZID="UTC+03:00":20261030T140000
 DTEND;TZID="UTC+03:00":20261030T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:75b4328feffb1f10b37ef732@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПреподаватель: доц. Резниченко Татьяна 
@@ -1179,7 +1179,7 @@ BEGIN:VEVENT
 SUMMARY:Русский язык и культура речи
 DTSTART;TZID="UTC+03:00":20261031T101500
 DTEND;TZID="UTC+03:00":20261031T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:71b2049ddf2f283ac297bd51@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПреподаватель: доц. Чересюк Полина Андр
@@ -1197,7 +1197,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261031T140000
 DTEND;TZID="UTC+03:00":20261031T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:aeeff27b2761be5fedf8ab7b@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: асс. Нес
@@ -1216,7 +1216,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261031T140000
 DTEND;TZID="UTC+03:00":20261031T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:40875e6b3ef560bba8013195@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 2 п/г\nПреподаватель: доц. Кра
@@ -1235,7 +1235,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261031T140000
 DTEND;TZID="UTC+03:00":20261031T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:08ecb6f39507109cbe52ebd1@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 3 п/г\nПреподаватель: доц. Хме
@@ -1254,7 +1254,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261031T140000
 DTEND;TZID="UTC+03:00":20261031T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:c88c01a091e58e8d843ffe4d@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 4 п/г\nПреподаватель: асс. Гет
@@ -1273,7 +1273,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261031T140000
 DTEND;TZID="UTC+03:00":20261031T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:b334b10497347a5bc81885ee@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 5 п/г\nПреподаватель: асс. Шма
@@ -1292,7 +1292,7 @@ SUMMARY:Элективные дисциплины по физическо
  й культуре и спорту
 DTSTART;TZID="UTC+03:00":20261102T083000
 DTEND;TZID="UTC+03:00":20261102T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:1e134cdad0f2859a1e1cbe72@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \n\nУчебные материалы:\nВ курс: https://pegas.bsu.edu
@@ -1306,7 +1306,7 @@ BEGIN:VEVENT
 SUMMARY:Иностранный язык
 DTSTART;TZID="UTC+03:00":20261102T101500
 DTEND;TZID="UTC+03:00":20261102T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:2ba6390a24ee9f13073887c8@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: доц. Мир
@@ -1326,7 +1326,7 @@ BEGIN:VEVENT
 SUMMARY:Социология
 DTSTART;TZID="UTC+03:00":20261102T140000
 DTEND;TZID="UTC+03:00":20261102T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:d8e4dbbbf879f8578a3d4d43@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПреподаватель: асс. Ивашина Елена Викто
@@ -1344,7 +1344,7 @@ SUMMARY:Элективные дисциплины по физическо
  й культуре и спорту
 DTSTART;TZID="UTC+03:00":20261103T083000
 DTEND;TZID="UTC+03:00":20261103T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:80bd669bdbf8896f820d29d9@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \n\nУчебные материалы:\nВ курс: https://pegas.bsu.edu
@@ -1359,7 +1359,7 @@ SUMMARY:Элективные дисциплины по физическо
  й культуре и спорту
 DTSTART;TZID="UTC+03:00":20261105T083000
 DTEND;TZID="UTC+03:00":20261105T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:dec053486e6c48baab4ac224@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \n\nУчебные материалы:\nВ курс: https://pegas.bsu.edu
@@ -1373,7 +1373,7 @@ BEGIN:VEVENT
 SUMMARY:История мировых религий
 DTSTART;TZID="UTC+03:00":20261105T154500
 DTEND;TZID="UTC+03:00":20261105T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:aaadb8dac49467b8f4aa125a@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПреподаватель: доц. Стрелкова Ирина Але
@@ -1391,7 +1391,7 @@ SUMMARY:Элективные дисциплины по физическо
  й культуре и спорту
 DTSTART;TZID="UTC+03:00":20261106T083000
 DTEND;TZID="UTC+03:00":20261106T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:3aef97b3ce4f2def4c0079d2@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \n\nУчебные материалы:\nВ курс: https://pegas.bsu.edu
@@ -1406,7 +1406,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261107T140000
 DTEND;TZID="UTC+03:00":20261107T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:00761f2f45cc6ea6c2731cf5@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: асс. Нес
@@ -1425,7 +1425,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261107T140000
 DTEND;TZID="UTC+03:00":20261107T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:05bba891fd14cf572d861644@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 2 п/г\nПреподаватель: доц. Кра
@@ -1444,7 +1444,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261107T140000
 DTEND;TZID="UTC+03:00":20261107T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:9df203634db60cec09e33b0c@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 3 п/г\nПреподаватель: доц. Хме
@@ -1463,7 +1463,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261107T140000
 DTEND;TZID="UTC+03:00":20261107T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:90270f8c828e278d96652909@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 4 п/г\nПреподаватель: асс. Гет
@@ -1482,7 +1482,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261107T140000
 DTEND;TZID="UTC+03:00":20261107T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:6bee645917673ca2ca3c12c7@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 5 п/г\nПреподаватель: асс. Шма
@@ -1501,7 +1501,7 @@ SUMMARY:Элективные дисциплины по физическо
  й культуре и спорту
 DTSTART;TZID="UTC+03:00":20261109T083000
 DTEND;TZID="UTC+03:00":20261109T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:20413a535c892463d632a566@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \n\nУчебные материалы:\nВ курс: https://pegas.bsu.edu
@@ -1515,7 +1515,7 @@ BEGIN:VEVENT
 SUMMARY:Иностранный язык
 DTSTART;TZID="UTC+03:00":20261109T101500
 DTEND;TZID="UTC+03:00":20261109T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:9f0110c9a27122ac60bd71de@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: доц. Мир
@@ -1535,7 +1535,7 @@ BEGIN:VEVENT
 SUMMARY:История России
 DTSTART;TZID="UTC+03:00":20261109T120000
 DTEND;TZID="UTC+03:00":20261109T133500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:86f03a968b6e1d0c82c7102c@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПреподаватель: асс. Фартушной Никита Ол
@@ -1553,7 +1553,7 @@ SUMMARY:Элективные дисциплины по физическо
  й культуре и спорту
 DTSTART;TZID="UTC+03:00":20261110T083000
 DTEND;TZID="UTC+03:00":20261110T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:b39fc10e447b559100970c00@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \n\nУчебные материалы:\nВ курс: https://pegas.bsu.edu
@@ -1567,7 +1567,7 @@ BEGIN:VEVENT
 SUMMARY:Безопасность жизнедеятельности
 DTSTART;TZID="UTC+03:00":20261111T083000
 DTEND;TZID="UTC+03:00":20261111T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:8d7581388dc2961751ea11ca@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: ст.преп. 
@@ -1586,7 +1586,7 @@ BEGIN:VEVENT
 SUMMARY:Безопасность жизнедеятельности
 DTSTART;TZID="UTC+03:00":20261111T083000
 DTEND;TZID="UTC+03:00":20261111T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:558906363481453972af8cc7@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 2 п/г\nПреподаватель: асс. Кос
@@ -1605,7 +1605,7 @@ BEGIN:VEVENT
 SUMMARY:Безопасность жизнедеятельности
 DTSTART;TZID="UTC+03:00":20261111T083000
 DTEND;TZID="UTC+03:00":20261111T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:d460a48d65fa7827e14c419a@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 3 п/г\nПреподаватель: асс. Дур
@@ -1624,7 +1624,7 @@ BEGIN:VEVENT
 SUMMARY:Безопасность жизнедеятельности
 DTSTART;TZID="UTC+03:00":20261111T083000
 DTEND;TZID="UTC+03:00":20261111T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:3d82521c9aeb8d3cbb9f4913@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 4 п/г\nПреподаватель: асс. Рае
@@ -1643,7 +1643,7 @@ BEGIN:VEVENT
 SUMMARY:Безопасность жизнедеятельности
 DTSTART;TZID="UTC+03:00":20261111T083000
 DTEND;TZID="UTC+03:00":20261111T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:fb21de2af212c2bc4dd67013@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 5 п/г\nПреподаватель: доц. Кис
@@ -1662,7 +1662,7 @@ BEGIN:VEVENT
 SUMMARY:Основы проектного менеджмента
 DTSTART;TZID="UTC+03:00":20261111T101500
 DTEND;TZID="UTC+03:00":20261111T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:6e08d493fb35f94e815884f1@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: асс. Гне
@@ -1681,7 +1681,7 @@ BEGIN:VEVENT
 SUMMARY:Основы проектного менеджмента
 DTSTART;TZID="UTC+03:00":20261111T101500
 DTEND;TZID="UTC+03:00":20261111T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:b57363abe4dac8047ff3a32b@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 2 п/г\nПреподаватель: доц. Вла
@@ -1700,7 +1700,7 @@ BEGIN:VEVENT
 SUMMARY:Основы проектного менеджмента
 DTSTART;TZID="UTC+03:00":20261111T101500
 DTEND;TZID="UTC+03:00":20261111T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:b611bb2b5c4f5d18d58949dd@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 3 п/г\nПреподаватель: доц. Тит
@@ -1718,7 +1718,7 @@ BEGIN:VEVENT
 SUMMARY:Основы проектного менеджмента
 DTSTART;TZID="UTC+03:00":20261111T101500
 DTEND;TZID="UTC+03:00":20261111T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:305debca4f66ca3954a7960d@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 4 п/г\nПреподаватель: доц. Цел
@@ -1737,7 +1737,7 @@ BEGIN:VEVENT
 SUMMARY:Основы проектного менеджмента
 DTSTART;TZID="UTC+03:00":20261111T101500
 DTEND;TZID="UTC+03:00":20261111T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:627c1c35377dacfecfd9755e@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 5 п/г\nПреподаватель: доц. Оса
@@ -1757,7 +1757,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261111T154500
 DTEND;TZID="UTC+03:00":20261111T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:d2af3f18ec1af9ce96b4a758@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: асс. Нес
@@ -1776,7 +1776,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261111T154500
 DTEND;TZID="UTC+03:00":20261111T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:99a68ca1cff89b6cacd9be28@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 2 п/г\nПреподаватель: доц. Кра
@@ -1795,7 +1795,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261111T154500
 DTEND;TZID="UTC+03:00":20261111T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:2ac325b4a91f071d61a388d6@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 3 п/г\nПреподаватель: доц. Хме
@@ -1814,7 +1814,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261111T154500
 DTEND;TZID="UTC+03:00":20261111T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:f5065c4cb0a5ab27363adf11@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 4 п/г\nПреподаватель: асс. Гет
@@ -1833,7 +1833,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261111T154500
 DTEND;TZID="UTC+03:00":20261111T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:70fd489252b0bb2eeeefe6ad@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 5 п/г\nПреподаватель: асс. Шма
@@ -1852,7 +1852,7 @@ SUMMARY:Элективные дисциплины по физическо
  й культуре и спорту
 DTSTART;TZID="UTC+03:00":20261112T083000
 DTEND;TZID="UTC+03:00":20261112T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:9683989cd9099a127f528916@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \n\nУчебные материалы:\nВ курс: https://pegas.bsu.edu
@@ -1867,7 +1867,7 @@ SUMMARY:Элективные дисциплины по физическо
  й культуре и спорту
 DTSTART;TZID="UTC+03:00":20261113T083000
 DTEND;TZID="UTC+03:00":20261113T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:e262cc70d69a935598b259f2@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \n\nУчебные материалы:\nВ курс: https://pegas.bsu.edu
@@ -1881,7 +1881,7 @@ BEGIN:VEVENT
 SUMMARY:Основы высшей математики
 DTSTART;TZID="UTC+03:00":20261113T140000
 DTEND;TZID="UTC+03:00":20261113T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:98f8a3517f87387a3201c728@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПреподаватель: доц. Резниченко Татьяна 
@@ -1898,7 +1898,7 @@ BEGIN:VEVENT
 SUMMARY:Русский язык и культура речи
 DTSTART;TZID="UTC+03:00":20261114T101500
 DTEND;TZID="UTC+03:00":20261114T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:d4c8ed49a3dcfb1915f47cde@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПреподаватель: доц. Чересюк Полина Андр
@@ -1916,7 +1916,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261114T140000
 DTEND;TZID="UTC+03:00":20261114T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:18aa5d5861a602306e6d5cf7@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: асс. Нес
@@ -1935,7 +1935,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261114T140000
 DTEND;TZID="UTC+03:00":20261114T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:3498884b39a7297e4794eddd@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 2 п/г\nПреподаватель: доц. Кра
@@ -1954,7 +1954,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261114T140000
 DTEND;TZID="UTC+03:00":20261114T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:2de7516eca2859b49ca091f5@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 3 п/г\nПреподаватель: доц. Хме
@@ -1973,7 +1973,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261114T140000
 DTEND;TZID="UTC+03:00":20261114T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:832d5f4d68423328fe7452ae@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 4 п/г\nПреподаватель: асс. Гет
@@ -1992,7 +1992,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261114T140000
 DTEND;TZID="UTC+03:00":20261114T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:ed100f1ffdbc3f0e710da5a9@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 5 п/г\nПреподаватель: асс. Шма
@@ -2011,7 +2011,7 @@ SUMMARY:Элективные дисциплины по физическо
  й культуре и спорту
 DTSTART;TZID="UTC+03:00":20261116T083000
 DTEND;TZID="UTC+03:00":20261116T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:c8b4dd5e7f2b19687fe8a11d@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \n\nУчебные материалы:\nВ курс: https://pegas.bsu.edu
@@ -2025,7 +2025,7 @@ BEGIN:VEVENT
 SUMMARY:Иностранный язык
 DTSTART;TZID="UTC+03:00":20261116T101500
 DTEND;TZID="UTC+03:00":20261116T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:9d960b9eaea26de97e56b752@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: доц. Мир
@@ -2045,7 +2045,7 @@ BEGIN:VEVENT
 SUMMARY:Социология
 DTSTART;TZID="UTC+03:00":20261116T120000
 DTEND;TZID="UTC+03:00":20261116T133500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:17c3cd7f2cfe14e1797080dc@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПреподаватель: асс. Ивашина Елена Викто
@@ -2063,7 +2063,7 @@ SUMMARY:Элективные дисциплины по физическо
  й культуре и спорту
 DTSTART;TZID="UTC+03:00":20261117T083000
 DTEND;TZID="UTC+03:00":20261117T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:2454c9f3b88d040b6068daa2@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \n\nУчебные материалы:\nВ курс: https://pegas.bsu.edu
@@ -2077,7 +2077,7 @@ BEGIN:VEVENT
 SUMMARY:Русский язык и культура речи
 DTSTART;TZID="UTC+03:00":20261118T083000
 DTEND;TZID="UTC+03:00":20261118T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:915feca5387a5c0f5b794cd5@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПреподаватель: доц. Чересюк Полина Андр
@@ -2094,7 +2094,7 @@ BEGIN:VEVENT
 SUMMARY:История России
 DTSTART;TZID="UTC+03:00":20261118T101500
 DTEND;TZID="UTC+03:00":20261118T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:a61b4630a90a8f3236f0aea3@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПреподаватель: асс. Фартушной Никита Ол
@@ -2112,7 +2112,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261118T154500
 DTEND;TZID="UTC+03:00":20261118T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:3a1acfb813f553be6266da2d@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: асс. Нес
@@ -2131,7 +2131,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261118T154500
 DTEND;TZID="UTC+03:00":20261118T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:9bf0c7c24508396b530bf7cc@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 2 п/г\nПреподаватель: доц. Кра
@@ -2150,7 +2150,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261118T154500
 DTEND;TZID="UTC+03:00":20261118T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:f20aac53a7b161238294b72d@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 3 п/г\nПреподаватель: доц. Хме
@@ -2169,7 +2169,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261118T154500
 DTEND;TZID="UTC+03:00":20261118T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:643a9825c38e01ab5d5ec9fc@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 4 п/г\nПреподаватель: асс. Гет
@@ -2188,7 +2188,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261118T154500
 DTEND;TZID="UTC+03:00":20261118T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:51798164655bce314a5d0517@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 5 п/г\nПреподаватель: асс. Шма
@@ -2207,7 +2207,7 @@ SUMMARY:Элективные дисциплины по физическо
  й культуре и спорту
 DTSTART;TZID="UTC+03:00":20261119T083000
 DTEND;TZID="UTC+03:00":20261119T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:769213bc8e4d9b1bb0dfedf4@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \n\nУчебные материалы:\nВ курс: https://pegas.bsu.edu
@@ -2221,7 +2221,7 @@ BEGIN:VEVENT
 SUMMARY:История мировых религий
 DTSTART;TZID="UTC+03:00":20261119T154500
 DTEND;TZID="UTC+03:00":20261119T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:ea5969949492cf3b319b791f@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПреподаватель: доц. Стрелкова Ирина Але
@@ -2239,7 +2239,7 @@ SUMMARY:Элективные дисциплины по физическо
  й культуре и спорту
 DTSTART;TZID="UTC+03:00":20261120T083000
 DTEND;TZID="UTC+03:00":20261120T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:50cb605daf97eb0dc491d7fa@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \n\nУчебные материалы:\nВ курс: https://pegas.bsu.edu
@@ -2254,7 +2254,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261121T140000
 DTEND;TZID="UTC+03:00":20261121T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:d57f8fd852abd2c3a684b389@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: асс. Нес
@@ -2273,7 +2273,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261121T140000
 DTEND;TZID="UTC+03:00":20261121T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:6f16b7fc4afdf390a376e49e@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 2 п/г\nПреподаватель: доц. Кра
@@ -2292,7 +2292,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261121T140000
 DTEND;TZID="UTC+03:00":20261121T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:c4d754f34ed4844ad73ce52b@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 3 п/г\nПреподаватель: доц. Хме
@@ -2311,7 +2311,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261121T140000
 DTEND;TZID="UTC+03:00":20261121T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:4d3aa4705620d10d67559422@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 4 п/г\nПреподаватель: асс. Гет
@@ -2330,7 +2330,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261121T140000
 DTEND;TZID="UTC+03:00":20261121T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:fd4405d95554ec0f206789da@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 5 п/г\nПреподаватель: асс. Шма
@@ -2349,7 +2349,7 @@ SUMMARY:Элективные дисциплины по физическо
  й культуре и спорту
 DTSTART;TZID="UTC+03:00":20261123T083000
 DTEND;TZID="UTC+03:00":20261123T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:f70042c2923f4bf67a411b8c@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \n\nУчебные материалы:\nВ курс: https://pegas.bsu.edu
@@ -2363,7 +2363,7 @@ BEGIN:VEVENT
 SUMMARY:Иностранный язык
 DTSTART;TZID="UTC+03:00":20261123T101500
 DTEND;TZID="UTC+03:00":20261123T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:27721af71a4dc388e0ed2bc2@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: доц. Мир
@@ -2383,7 +2383,7 @@ BEGIN:VEVENT
 SUMMARY:История России
 DTSTART;TZID="UTC+03:00":20261123T120000
 DTEND;TZID="UTC+03:00":20261123T133500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:fb45a82adcdb221e36ebba79@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПреподаватель: асс. Фартушной Никита Ол
@@ -2401,7 +2401,7 @@ SUMMARY:Элективные дисциплины по физическо
  й культуре и спорту
 DTSTART;TZID="UTC+03:00":20261124T083000
 DTEND;TZID="UTC+03:00":20261124T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:0705b7c3a1a57389cd9da06a@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \n\nУчебные материалы:\nВ курс: https://pegas.bsu.edu
@@ -2415,7 +2415,7 @@ BEGIN:VEVENT
 SUMMARY:Безопасность жизнедеятельности
 DTSTART;TZID="UTC+03:00":20261125T083000
 DTEND;TZID="UTC+03:00":20261125T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:77e4127537f29f589fd6a95f@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: ст.преп. 
@@ -2434,7 +2434,7 @@ BEGIN:VEVENT
 SUMMARY:Безопасность жизнедеятельности
 DTSTART;TZID="UTC+03:00":20261125T083000
 DTEND;TZID="UTC+03:00":20261125T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:1ff36a70ea7b43dab79ae3d6@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 2 п/г\nПреподаватель: асс. Кос
@@ -2453,7 +2453,7 @@ BEGIN:VEVENT
 SUMMARY:Безопасность жизнедеятельности
 DTSTART;TZID="UTC+03:00":20261125T083000
 DTEND;TZID="UTC+03:00":20261125T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:6b14ed7d65a11c0776d5a15f@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 3 п/г\nПреподаватель: асс. Дур
@@ -2472,7 +2472,7 @@ BEGIN:VEVENT
 SUMMARY:Безопасность жизнедеятельности
 DTSTART;TZID="UTC+03:00":20261125T083000
 DTEND;TZID="UTC+03:00":20261125T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:6f30765f3630cf823f753c22@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 4 п/г\nПреподаватель: асс. Рае
@@ -2491,7 +2491,7 @@ BEGIN:VEVENT
 SUMMARY:Безопасность жизнедеятельности
 DTSTART;TZID="UTC+03:00":20261125T083000
 DTEND;TZID="UTC+03:00":20261125T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:0b79f8f553feb171df12f191@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 5 п/г\nПреподаватель: доц. Кис
@@ -2510,7 +2510,7 @@ BEGIN:VEVENT
 SUMMARY:Основы проектного менеджмента
 DTSTART;TZID="UTC+03:00":20261125T101500
 DTEND;TZID="UTC+03:00":20261125T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:83f84af72d2ecccf31c70208@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: асс. Гне
@@ -2529,7 +2529,7 @@ BEGIN:VEVENT
 SUMMARY:Основы проектного менеджмента
 DTSTART;TZID="UTC+03:00":20261125T101500
 DTEND;TZID="UTC+03:00":20261125T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:488d04f73c9a33feb7803e04@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 2 п/г\nПреподаватель: доц. Вла
@@ -2548,7 +2548,7 @@ BEGIN:VEVENT
 SUMMARY:Основы проектного менеджмента
 DTSTART;TZID="UTC+03:00":20261125T101500
 DTEND;TZID="UTC+03:00":20261125T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:025875a58f1960071fe0c5d1@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 3 п/г\nПреподаватель: доц. Тит
@@ -2566,7 +2566,7 @@ BEGIN:VEVENT
 SUMMARY:Основы проектного менеджмента
 DTSTART;TZID="UTC+03:00":20261125T101500
 DTEND;TZID="UTC+03:00":20261125T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:b1fd2c42d5fb2e5f1f87fb1d@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 4 п/г\nПреподаватель: доц. Цел
@@ -2585,7 +2585,7 @@ BEGIN:VEVENT
 SUMMARY:Основы проектного менеджмента
 DTSTART;TZID="UTC+03:00":20261125T101500
 DTEND;TZID="UTC+03:00":20261125T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:b31415cc98023277787e1151@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 5 п/г\nПреподаватель: доц. Оса
@@ -2605,7 +2605,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261125T154500
 DTEND;TZID="UTC+03:00":20261125T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:a09e4f4385f9d25ef8e1b34d@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: асс. Нес
@@ -2624,7 +2624,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261125T154500
 DTEND;TZID="UTC+03:00":20261125T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:4467414f129f32b07e317824@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 2 п/г\nПреподаватель: доц. Кра
@@ -2643,7 +2643,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261125T154500
 DTEND;TZID="UTC+03:00":20261125T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:ddf15094b9b3765d8d4a2320@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 3 п/г\nПреподаватель: доц. Хме
@@ -2662,7 +2662,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261125T154500
 DTEND;TZID="UTC+03:00":20261125T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:eebd70cffbe312958b2735e4@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 4 п/г\nПреподаватель: асс. Гет
@@ -2681,7 +2681,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261125T154500
 DTEND;TZID="UTC+03:00":20261125T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:c21f7e828a540001e0e2452d@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 5 п/г\nПреподаватель: асс. Шма
@@ -2700,7 +2700,7 @@ SUMMARY:Элективные дисциплины по физическо
  й культуре и спорту
 DTSTART;TZID="UTC+03:00":20261126T083000
 DTEND;TZID="UTC+03:00":20261126T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:efc1ef06b88dc62fe9399bfb@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \n\nУчебные материалы:\nВ курс: https://pegas.bsu.edu
@@ -2715,7 +2715,7 @@ SUMMARY:Элективные дисциплины по физическо
  й культуре и спорту
 DTSTART;TZID="UTC+03:00":20261127T083000
 DTEND;TZID="UTC+03:00":20261127T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:c1a73dcbff7ed9583e080115@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \n\nУчебные материалы:\nВ курс: https://pegas.bsu.edu
@@ -2729,7 +2729,7 @@ BEGIN:VEVENT
 SUMMARY:Основы высшей математики
 DTSTART;TZID="UTC+03:00":20261127T140000
 DTEND;TZID="UTC+03:00":20261127T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:a6e6dec39a93dd7360031820@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПреподаватель: доц. Резниченко Татьяна 
@@ -2746,7 +2746,7 @@ BEGIN:VEVENT
 SUMMARY:Русский язык и культура речи
 DTSTART;TZID="UTC+03:00":20261128T101500
 DTEND;TZID="UTC+03:00":20261128T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:6be42e4f72b32764d3f1f9ae@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПреподаватель: доц. Чересюк Полина Андр
@@ -2764,7 +2764,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261128T140000
 DTEND;TZID="UTC+03:00":20261128T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:f6ffb751a927ae16ccfa0483@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: асс. Нес
@@ -2783,7 +2783,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261128T140000
 DTEND;TZID="UTC+03:00":20261128T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:a97c8f7ca26635f3405307fe@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 2 п/г\nПреподаватель: доц. Кра
@@ -2802,7 +2802,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261128T140000
 DTEND;TZID="UTC+03:00":20261128T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:eb49a7f769109822adb51f29@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 3 п/г\nПреподаватель: доц. Хме
@@ -2821,7 +2821,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261128T140000
 DTEND;TZID="UTC+03:00":20261128T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:90376bc4725ff1470f83de5b@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 4 п/г\nПреподаватель: асс. Гет
@@ -2840,7 +2840,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261128T140000
 DTEND;TZID="UTC+03:00":20261128T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:b32a41e6d08243074a870ec3@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 5 п/г\nПреподаватель: асс. Шма
@@ -2859,7 +2859,7 @@ SUMMARY:Элективные дисциплины по физическо
  й культуре и спорту
 DTSTART;TZID="UTC+03:00":20261130T083000
 DTEND;TZID="UTC+03:00":20261130T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:e57d2db48a5b2d9f6d02108a@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \n\nУчебные материалы:\nВ курс: https://pegas.bsu.edu
@@ -2873,7 +2873,7 @@ BEGIN:VEVENT
 SUMMARY:Иностранный язык
 DTSTART;TZID="UTC+03:00":20261130T101500
 DTEND;TZID="UTC+03:00":20261130T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:ff85e6560f26a321be684862@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: доц. Мир
@@ -2893,7 +2893,7 @@ BEGIN:VEVENT
 SUMMARY:Социология
 DTSTART;TZID="UTC+03:00":20261130T120000
 DTEND;TZID="UTC+03:00":20261130T133500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:d928b92234a69cc1c4d514ec@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПреподаватель: асс. Ивашина Елена Викто
@@ -2911,7 +2911,7 @@ SUMMARY:Элективные дисциплины по физическо
  й культуре и спорту
 DTSTART;TZID="UTC+03:00":20261201T083000
 DTEND;TZID="UTC+03:00":20261201T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:4469c1503f71b37bbbb9cd7c@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \n\nУчебные материалы:\nВ курс: https://pegas.bsu.edu
@@ -2925,7 +2925,7 @@ BEGIN:VEVENT
 SUMMARY:Русский язык и культура речи
 DTSTART;TZID="UTC+03:00":20261202T083000
 DTEND;TZID="UTC+03:00":20261202T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:d181f87eaf979407cc254a07@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПреподаватель: доц. Чересюк Полина Андр
@@ -2942,7 +2942,7 @@ BEGIN:VEVENT
 SUMMARY:История России
 DTSTART;TZID="UTC+03:00":20261202T101500
 DTEND;TZID="UTC+03:00":20261202T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:30731e72fb32bdee0a4f5151@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПреподаватель: асс. Фартушной Никита Ол
@@ -2960,7 +2960,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261202T154500
 DTEND;TZID="UTC+03:00":20261202T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:3e76a79e455c3c84c7f86376@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: асс. Нес
@@ -2979,7 +2979,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261202T154500
 DTEND;TZID="UTC+03:00":20261202T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:ab4ad14558e1af7ef4d313cf@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 2 п/г\nПреподаватель: доц. Кра
@@ -2998,7 +2998,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261202T154500
 DTEND;TZID="UTC+03:00":20261202T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:f308221cd685c81ad6cf796b@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 3 п/г\nПреподаватель: доц. Хме
@@ -3017,7 +3017,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261202T154500
 DTEND;TZID="UTC+03:00":20261202T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:aba55d32fec9679e99f9707b@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 4 п/г\nПреподаватель: асс. Гет
@@ -3036,7 +3036,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261202T154500
 DTEND;TZID="UTC+03:00":20261202T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:0a26d3c1d4f38d627f365782@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 5 п/г\nПреподаватель: асс. Шма
@@ -3055,7 +3055,7 @@ SUMMARY:Элективные дисциплины по физическо
  й культуре и спорту
 DTSTART;TZID="UTC+03:00":20261203T083000
 DTEND;TZID="UTC+03:00":20261203T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:50ed564b76bda074b0540ca6@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \n\nУчебные материалы:\nВ курс: https://pegas.bsu.edu
@@ -3069,7 +3069,7 @@ BEGIN:VEVENT
 SUMMARY:История мировых религий
 DTSTART;TZID="UTC+03:00":20261203T154500
 DTEND;TZID="UTC+03:00":20261203T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:0cd0f11114e0b0dfa4ddc366@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПреподаватель: доц. Стрелкова Ирина Але
@@ -3087,7 +3087,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261205T140000
 DTEND;TZID="UTC+03:00":20261205T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:d117c4288c7ae2fca644ae27@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: асс. Нес
@@ -3106,7 +3106,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261205T140000
 DTEND;TZID="UTC+03:00":20261205T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:57b3d6ae592f469902234227@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 2 п/г\nПреподаватель: доц. Кра
@@ -3125,7 +3125,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261205T140000
 DTEND;TZID="UTC+03:00":20261205T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:0eee049fb614abcb8c85a38a@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 3 п/г\nПреподаватель: доц. Хме
@@ -3144,7 +3144,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261205T140000
 DTEND;TZID="UTC+03:00":20261205T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:55f7038d3f47cef8fa934296@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 4 п/г\nПреподаватель: асс. Гет
@@ -3163,7 +3163,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261205T140000
 DTEND;TZID="UTC+03:00":20261205T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:1401128392a161087a681a2d@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 5 п/г\nПреподаватель: асс. Шма
@@ -3181,7 +3181,7 @@ BEGIN:VEVENT
 SUMMARY:Иностранный язык
 DTSTART;TZID="UTC+03:00":20261207T101500
 DTEND;TZID="UTC+03:00":20261207T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:ab6b5cce925e2f11d0d589c6@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: доц. Мир
@@ -3201,7 +3201,7 @@ BEGIN:VEVENT
 SUMMARY:История России
 DTSTART;TZID="UTC+03:00":20261207T120000
 DTEND;TZID="UTC+03:00":20261207T133500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:8df503702c64bea2b3c8b3f3@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПреподаватель: асс. Фартушной Никита Ол
@@ -3218,7 +3218,7 @@ BEGIN:VEVENT
 SUMMARY:Безопасность жизнедеятельности
 DTSTART;TZID="UTC+03:00":20261209T083000
 DTEND;TZID="UTC+03:00":20261209T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:ee9068530a4fe463f63a2cef@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: ст.преп. 
@@ -3237,7 +3237,7 @@ BEGIN:VEVENT
 SUMMARY:Безопасность жизнедеятельности
 DTSTART;TZID="UTC+03:00":20261209T083000
 DTEND;TZID="UTC+03:00":20261209T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:52ff0ba933a63a5e1ca93160@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 2 п/г\nПреподаватель: асс. Кос
@@ -3256,7 +3256,7 @@ BEGIN:VEVENT
 SUMMARY:Безопасность жизнедеятельности
 DTSTART;TZID="UTC+03:00":20261209T083000
 DTEND;TZID="UTC+03:00":20261209T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:f22b94a1a2d316f036e9be07@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 3 п/г\nПреподаватель: асс. Дур
@@ -3275,7 +3275,7 @@ BEGIN:VEVENT
 SUMMARY:Безопасность жизнедеятельности
 DTSTART;TZID="UTC+03:00":20261209T083000
 DTEND;TZID="UTC+03:00":20261209T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:eacd10c01d235f0c86a3bf26@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 4 п/г\nПреподаватель: асс. Рае
@@ -3294,7 +3294,7 @@ BEGIN:VEVENT
 SUMMARY:Безопасность жизнедеятельности
 DTSTART;TZID="UTC+03:00":20261209T083000
 DTEND;TZID="UTC+03:00":20261209T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:5cde054f345c832b4392c1b4@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 5 п/г\nПреподаватель: доц. Кис
@@ -3313,7 +3313,7 @@ BEGIN:VEVENT
 SUMMARY:Основы проектного менеджмента
 DTSTART;TZID="UTC+03:00":20261209T101500
 DTEND;TZID="UTC+03:00":20261209T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:8eb9bd8e04ea3c22176add53@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: асс. Гне
@@ -3332,7 +3332,7 @@ BEGIN:VEVENT
 SUMMARY:Основы проектного менеджмента
 DTSTART;TZID="UTC+03:00":20261209T101500
 DTEND;TZID="UTC+03:00":20261209T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:43f1d407ab615f17e66baed6@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 2 п/г\nПреподаватель: доц. Вла
@@ -3351,7 +3351,7 @@ BEGIN:VEVENT
 SUMMARY:Основы проектного менеджмента
 DTSTART;TZID="UTC+03:00":20261209T101500
 DTEND;TZID="UTC+03:00":20261209T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:b8e285619075ea674abf7027@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 3 п/г\nПреподаватель: доц. Тит
@@ -3369,7 +3369,7 @@ BEGIN:VEVENT
 SUMMARY:Основы проектного менеджмента
 DTSTART;TZID="UTC+03:00":20261209T101500
 DTEND;TZID="UTC+03:00":20261209T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:54731cd5c60115ca37d692f1@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 4 п/г\nПреподаватель: доц. Цел
@@ -3388,7 +3388,7 @@ BEGIN:VEVENT
 SUMMARY:Основы проектного менеджмента
 DTSTART;TZID="UTC+03:00":20261209T101500
 DTEND;TZID="UTC+03:00":20261209T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:43ece25ff2ceff6d6f1454af@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 5 п/г\nПреподаватель: доц. Оса
@@ -3408,7 +3408,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261209T154500
 DTEND;TZID="UTC+03:00":20261209T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:620e8bbcfeedc270b0d862e2@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: асс. Нес
@@ -3427,7 +3427,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261209T154500
 DTEND;TZID="UTC+03:00":20261209T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:7663fe563e2eb3b5bf38dc74@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 2 п/г\nПреподаватель: доц. Кра
@@ -3446,7 +3446,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261209T154500
 DTEND;TZID="UTC+03:00":20261209T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:9c9d3e2f8b6fc99baa7aad5e@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 3 п/г\nПреподаватель: доц. Хме
@@ -3465,7 +3465,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261209T154500
 DTEND;TZID="UTC+03:00":20261209T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:b000e0d1b8e45af9c04a766b@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 4 п/г\nПреподаватель: асс. Гет
@@ -3484,7 +3484,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261209T154500
 DTEND;TZID="UTC+03:00":20261209T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:c90be6da144e79bc57f7b536@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 5 п/г\nПреподаватель: асс. Шма
@@ -3502,7 +3502,7 @@ BEGIN:VEVENT
 SUMMARY:Основы высшей математики
 DTSTART;TZID="UTC+03:00":20261211T140000
 DTEND;TZID="UTC+03:00":20261211T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:f4e7af296a8419337cc614e1@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПреподаватель: доц. Резниченко Татьяна 
@@ -3519,7 +3519,7 @@ BEGIN:VEVENT
 SUMMARY:Русский язык и культура речи
 DTSTART;TZID="UTC+03:00":20261212T101500
 DTEND;TZID="UTC+03:00":20261212T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:c809d19bf62f6a79257ebdd2@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПреподаватель: доц. Чересюк Полина Андр
@@ -3537,7 +3537,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261212T140000
 DTEND;TZID="UTC+03:00":20261212T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:09aadff31607490439c65bd7@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: асс. Нес
@@ -3556,7 +3556,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261212T140000
 DTEND;TZID="UTC+03:00":20261212T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:c3df99b17c6df250b33f6181@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 2 п/г\nПреподаватель: доц. Кра
@@ -3575,7 +3575,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261212T140000
 DTEND;TZID="UTC+03:00":20261212T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:8180e12849f285d9f2eb6672@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 3 п/г\nПреподаватель: доц. Хме
@@ -3594,7 +3594,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261212T140000
 DTEND;TZID="UTC+03:00":20261212T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:0ed83f6dfbd87adcb0a4a7ff@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 4 п/г\nПреподаватель: асс. Гет
@@ -3613,7 +3613,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261212T140000
 DTEND;TZID="UTC+03:00":20261212T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:90a15bbb8d69a1de50514758@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 5 п/г\nПреподаватель: асс. Шма
@@ -3631,7 +3631,7 @@ BEGIN:VEVENT
 SUMMARY:Иностранный язык
 DTSTART;TZID="UTC+03:00":20261214T101500
 DTEND;TZID="UTC+03:00":20261214T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:c2c95e93e7ebb916d3e0d4fd@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: доц. Мир
@@ -3651,7 +3651,7 @@ BEGIN:VEVENT
 SUMMARY:Социология
 DTSTART;TZID="UTC+03:00":20261214T120000
 DTEND;TZID="UTC+03:00":20261214T133500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:3d57e35886bef31dc81eb7b2@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПреподаватель: асс. Ивашина Елена Викто
@@ -3668,7 +3668,7 @@ BEGIN:VEVENT
 SUMMARY:Социология
 DTSTART;TZID="UTC+03:00":20261215T120000
 DTEND;TZID="UTC+03:00":20261215T133500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:3f845ed615c9ea63d709c192@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПреподаватель: асс. Ивашина Елена Викто
@@ -3685,7 +3685,7 @@ BEGIN:VEVENT
 SUMMARY:Русский язык и культура речи
 DTSTART;TZID="UTC+03:00":20261216T083000
 DTEND;TZID="UTC+03:00":20261216T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:17bc8fabd675524a49ddebf7@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПреподаватель: доц. Чересюк Полина Андр
@@ -3702,7 +3702,7 @@ BEGIN:VEVENT
 SUMMARY:История России
 DTSTART;TZID="UTC+03:00":20261216T101500
 DTEND;TZID="UTC+03:00":20261216T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:cd615646b78e0738929e7557@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПреподаватель: асс. Фартушной Никита Ол
@@ -3720,7 +3720,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261216T154500
 DTEND;TZID="UTC+03:00":20261216T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:afbb90b926ba890cd284748c@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: асс. Нес
@@ -3739,7 +3739,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261216T154500
 DTEND;TZID="UTC+03:00":20261216T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:2c4485f76a5db3c752f75040@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 2 п/г\nПреподаватель: доц. Кра
@@ -3758,7 +3758,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261216T154500
 DTEND;TZID="UTC+03:00":20261216T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:bb687d5bae9b0cea4a705d15@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 3 п/г\nПреподаватель: доц. Хме
@@ -3777,7 +3777,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261216T154500
 DTEND;TZID="UTC+03:00":20261216T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:c391a0fbbc5e1b5fdc9c497f@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 4 п/г\nПреподаватель: асс. Гет
@@ -3796,7 +3796,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261216T154500
 DTEND;TZID="UTC+03:00":20261216T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:07c84a594024b209e7aab348@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 5 п/г\nПреподаватель: асс. Шма
@@ -3815,7 +3815,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261219T140000
 DTEND;TZID="UTC+03:00":20261219T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:175ff8a71412238a7b7ff346@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: асс. Нес
@@ -3834,7 +3834,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261219T140000
 DTEND;TZID="UTC+03:00":20261219T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:e9dd0ef56b937607788298ed@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 2 п/г\nПреподаватель: доц. Кра
@@ -3853,7 +3853,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261219T140000
 DTEND;TZID="UTC+03:00":20261219T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:9d280b037c3a3bbfedbc553a@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 3 п/г\nПреподаватель: доц. Хме
@@ -3872,7 +3872,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261219T140000
 DTEND;TZID="UTC+03:00":20261219T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:1b951379df5619a97edccc50@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 4 п/г\nПреподаватель: асс. Гет
@@ -3891,7 +3891,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261219T140000
 DTEND;TZID="UTC+03:00":20261219T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:e84efd7735b252e5519c76c9@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 5 п/г\nПреподаватель: асс. Шма
@@ -3909,7 +3909,7 @@ BEGIN:VEVENT
 SUMMARY:Иностранный язык
 DTSTART;TZID="UTC+03:00":20261221T101500
 DTEND;TZID="UTC+03:00":20261221T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:1b8caf8dd71b268906948d2c@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: доц. Мир
@@ -3929,7 +3929,7 @@ BEGIN:VEVENT
 SUMMARY:История России
 DTSTART;TZID="UTC+03:00":20261221T120000
 DTEND;TZID="UTC+03:00":20261221T133500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:6d31a838e46568d5b29a70da@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПреподаватель: асс. Фартушной Никита Ол
@@ -3946,7 +3946,7 @@ BEGIN:VEVENT
 SUMMARY:Безопасность жизнедеятельности
 DTSTART;TZID="UTC+03:00":20261223T083000
 DTEND;TZID="UTC+03:00":20261223T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:62d1f8ef0041c9e055124405@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: ст.преп. 
@@ -3965,7 +3965,7 @@ BEGIN:VEVENT
 SUMMARY:Безопасность жизнедеятельности
 DTSTART;TZID="UTC+03:00":20261223T083000
 DTEND;TZID="UTC+03:00":20261223T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:cc7fafab21f38e1f2d4da0fc@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 2 п/г\nПреподаватель: асс. Кос
@@ -3984,7 +3984,7 @@ BEGIN:VEVENT
 SUMMARY:Безопасность жизнедеятельности
 DTSTART;TZID="UTC+03:00":20261223T083000
 DTEND;TZID="UTC+03:00":20261223T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:960e7e04055607fdbb2f5378@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 3 п/г\nПреподаватель: асс. Дур
@@ -4003,7 +4003,7 @@ BEGIN:VEVENT
 SUMMARY:Безопасность жизнедеятельности
 DTSTART;TZID="UTC+03:00":20261223T083000
 DTEND;TZID="UTC+03:00":20261223T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:41aae6a00c3ad0c6c46ac9e5@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 4 п/г\nПреподаватель: асс. Рае
@@ -4022,7 +4022,7 @@ BEGIN:VEVENT
 SUMMARY:Безопасность жизнедеятельности
 DTSTART;TZID="UTC+03:00":20261223T083000
 DTEND;TZID="UTC+03:00":20261223T100500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:b887ecadc4d3125f88fd78c4@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 5 п/г\nПреподаватель: доц. Кис
@@ -4041,7 +4041,7 @@ BEGIN:VEVENT
 SUMMARY:Основы проектного менеджмента
 DTSTART;TZID="UTC+03:00":20261223T101500
 DTEND;TZID="UTC+03:00":20261223T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:9b5cf7e0ee343da310da55a8@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: асс. Гне
@@ -4060,7 +4060,7 @@ BEGIN:VEVENT
 SUMMARY:Основы проектного менеджмента
 DTSTART;TZID="UTC+03:00":20261223T101500
 DTEND;TZID="UTC+03:00":20261223T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:4ae04fa6bc11b720ecf7ddde@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 2 п/г\nПреподаватель: доц. Вла
@@ -4079,7 +4079,7 @@ BEGIN:VEVENT
 SUMMARY:Основы проектного менеджмента
 DTSTART;TZID="UTC+03:00":20261223T101500
 DTEND;TZID="UTC+03:00":20261223T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:1dbc127079284cdc140f4086@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 3 п/г\nПреподаватель: доц. Тит
@@ -4097,7 +4097,7 @@ BEGIN:VEVENT
 SUMMARY:Основы проектного менеджмента
 DTSTART;TZID="UTC+03:00":20261223T101500
 DTEND;TZID="UTC+03:00":20261223T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:1ad0b8f046675939e85cdb6a@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 4 п/г\nПреподаватель: доц. Цел
@@ -4116,7 +4116,7 @@ BEGIN:VEVENT
 SUMMARY:Основы проектного менеджмента
 DTSTART;TZID="UTC+03:00":20261223T101500
 DTEND;TZID="UTC+03:00":20261223T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:fb2a48a0637bcebdb8027c1d@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 5 п/г\nПреподаватель: доц. Оса
@@ -4136,7 +4136,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261223T154500
 DTEND;TZID="UTC+03:00":20261223T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:2497af207f95034534701107@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: асс. Нес
@@ -4155,7 +4155,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261223T154500
 DTEND;TZID="UTC+03:00":20261223T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:6548b072ce1a6a4e78b4efd4@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 2 п/г\nПреподаватель: доц. Кра
@@ -4174,7 +4174,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261223T154500
 DTEND;TZID="UTC+03:00":20261223T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:dc0db13716f87470b79d5e81@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 3 п/г\nПреподаватель: доц. Хме
@@ -4193,7 +4193,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261223T154500
 DTEND;TZID="UTC+03:00":20261223T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:a59016e03e60f6d76654dde2@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 4 п/г\nПреподаватель: асс. Гет
@@ -4212,7 +4212,7 @@ SUMMARY:Основы российской государственност
  и
 DTSTART;TZID="UTC+03:00":20261223T154500
 DTEND;TZID="UTC+03:00":20261223T172000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:3a4f8418a31973c227147cf3@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 5 п/г\nПреподаватель: асс. Шма
@@ -4230,7 +4230,7 @@ BEGIN:VEVENT
 SUMMARY:Безопасность жизнедеятельности
 DTSTART;TZID="UTC+03:00":20261224T173000
 DTEND;TZID="UTC+03:00":20261224T190500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:169d795657766a730fc78bd3@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: ст.преп. 
@@ -4247,7 +4247,7 @@ BEGIN:VEVENT
 SUMMARY:Безопасность жизнедеятельности
 DTSTART;TZID="UTC+03:00":20261224T173000
 DTEND;TZID="UTC+03:00":20261224T190500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:a59601d3c768ef6f590c22d3@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 2 п/г\nПреподаватель: асс. Кос
@@ -4264,7 +4264,7 @@ BEGIN:VEVENT
 SUMMARY:Безопасность жизнедеятельности
 DTSTART;TZID="UTC+03:00":20261224T173000
 DTEND;TZID="UTC+03:00":20261224T190500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:77c25ba76105a7e56f2f9640@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 3 п/г\nПреподаватель: асс. Дур
@@ -4281,7 +4281,7 @@ BEGIN:VEVENT
 SUMMARY:Безопасность жизнедеятельности
 DTSTART;TZID="UTC+03:00":20261224T173000
 DTEND;TZID="UTC+03:00":20261224T190500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:245c2f32bb0037a2f34a6392@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 4 п/г\nПреподаватель: асс. Рае
@@ -4298,7 +4298,7 @@ BEGIN:VEVENT
 SUMMARY:Безопасность жизнедеятельности
 DTSTART;TZID="UTC+03:00":20261224T173000
 DTEND;TZID="UTC+03:00":20261224T190500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:e3407effcb3ddc8cb61c7478@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 5 п/г\nПреподаватель: доц. Кис
@@ -4315,7 +4315,7 @@ BEGIN:VEVENT
 SUMMARY:Основы высшей математики
 DTSTART;TZID="UTC+03:00":20261225T140000
 DTEND;TZID="UTC+03:00":20261225T153500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:ba743ab9f2abff00c421c486@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПреподаватель: доц. Резниченко Татьяна 
@@ -4332,7 +4332,7 @@ BEGIN:VEVENT
 SUMMARY:История России
 DTSTART;TZID="UTC+03:00":20270114T101500
 DTEND;TZID="UTC+03:00":20270114T115000
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:851463c26d8f9e2290eccf43@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПреподаватель: асс. Фартушной Никита Ол
@@ -4349,7 +4349,7 @@ BEGIN:VEVENT
 SUMMARY:Иностранный язык
 DTSTART;TZID="UTC+03:00":20270201T120000
 DTEND;TZID="UTC+03:00":20270201T133500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:ce376ebbe9464f90c5f7abf1@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: доц. Мир
@@ -4369,7 +4369,7 @@ BEGIN:VEVENT
 SUMMARY:Иностранный язык
 DTSTART;TZID="UTC+03:00":20270208T120000
 DTEND;TZID="UTC+03:00":20270208T133500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:14a2cd96862636a80206898b@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: доц. Мир
@@ -4389,7 +4389,7 @@ BEGIN:VEVENT
 SUMMARY:Иностранный язык
 DTSTART;TZID="UTC+03:00":20270215T120000
 DTEND;TZID="UTC+03:00":20270215T133500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:3a9923e0d458e08023441416@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: доц. Мир
@@ -4409,7 +4409,7 @@ BEGIN:VEVENT
 SUMMARY:Иностранный язык
 DTSTART;TZID="UTC+03:00":20270222T120000
 DTEND;TZID="UTC+03:00":20270222T133500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:85ccc13b0f2e9503be65a5a6@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 п/г\nПреподаватель: доц. Мир
@@ -4429,7 +4429,7 @@ BEGIN:VEVENT
 SUMMARY:Физическая культура и спорт
 DTSTART;TZID="UTC+03:00":20270225T120000
 DTEND;TZID="UTC+03:00":20270225T133500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:189c5daecb946e690fff225b@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 основная\nПреподаватель: ст
@@ -4450,7 +4450,7 @@ BEGIN:VEVENT
 SUMMARY:Физическая культура и спорт
 DTSTART;TZID="UTC+03:00":20270225T120000
 DTEND;TZID="UTC+03:00":20270225T133500
-DTSTAMP:20261017T145427Z
+DTSTAMP:20261017T200339Z
 UID:838f6e9c224a4b51a96f0362@belgu-parser
 DESCRIPTION:Тип занятия: Практическое занятие
  \nПодгруппа: 1 специальная\nПреподаватель
